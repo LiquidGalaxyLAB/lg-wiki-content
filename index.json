@@ -1,6 +1,21 @@
 {
   "pages": [
     {
+      "id": "architecture",
+      "title": "Architecture",
+      "file": "architecture.md"
+    },
+    {
+      "id": "rig-installation",
+      "title": "Rig Installation",
+      "file": "rig-installation.md"
+    },
+    {
+      "id": "control-commands",
+      "title": "Control Commands",
+      "file": "control-commands.md"
+    },
+    {
       "id": "questions-and-answers-from-the-discord",
       "title": "Questions and Answers from the Discord:",
       "file": "questions-and-answers-from-the-discord.md"

@@ -1,28 +1,80 @@
 ---
-title: How to contribute to LG-Wiki
-contributor: Dev T Gadani
-date: 2024-06-10T07:58:28.181+00:00
+title: "How to Contribute to LG Wiki"
+contributor: "Dev T Gadani"
+date: 2026-07-10T23:30:00.000+00:00
 ---
+
 ## Overview
-**Step 1:** Go to Documentation tab  
-  
-![home tab](https://lh7-us.googleusercontent.com/docsz/AD_4nXdmbNcCsmexHGan7bFTAWZrfpV4FT9d08kZFVn-NIOXESxBBY--ztzkwEIVnrNOLqt8JZ6NNEjUtzap2e4Vl9QP3ZMU4iBMRLZNf_s2g29VQZqrPWCLPXoKBtv67j67vktyjsQg9EMCmpnoW86G00jvEPM?key=kHYbKBaty9njtwVslU_mPQ "home tab")  
-**Step 2:** You will see a add button over there just click on it  
-  
-![documentation tab](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOriAYAcYyys3T60IxvLVeweewz9C79Xd_dgcvrOZ5SPhnmI73IysbddMBgoOEAo6cd4t3Lvz0Hf0zwPsB3Nispr4Zju1vmDtOz3EEgU3qzClx_OKBKhHZwe-z7aSt-PlyLyvef68wmFhPtRFR9-YYNe7Ypj5eaaJf3kyh8hJ3qQGia7EHpsJgfGmpDRlt/s320/documentation%20tab.jpg "documentation tab")  
-**Step 3:** After click you redirect to the data entry filling page  
-  
-**Step 4:** Fill all the value only image value is optional. Because without filling you are not been going to submit the form  
-  
-![userinput](https://lh7-us.googleusercontent.com/docsz/AD_4nXfNSDzbMUUMzXBD5RZv-D1Iz_nFVF49kw22VaRs_37dei8lRL9_7q4cR4p2dgaf1S3ucp4J1tzeGlIqEd9WAh8ZAA3ImrDJGr8M4VGTnpffNvteBNoLFvaVbVdPpTClmuHed7P4WzOf5a8tHaf1b8QF_uSC?key=kHYbKBaty9njtwVslU_mPQ "userinput")  
-**Step 5:** IF you want to upload image you have give a blank Image tag because it will specific where u want to add image.  
-  
-![image](https://lh7-us.googleusercontent.com/docsz/AD_4nXeucgO8ZX7tW29qPNzKtUtf4-iKOxRdM0VCLmBOlc_4_msfzwt09N4KxhOg56TEkOQLzoFZdMV3vh8zQk0U4lwofOeVm7YOZ8iwaLoK69hD0QXOwRpklWQaVRLJwRlpMTllm_zKjJhgXvrmzebrV4i_z3oI?key=kHYbKBaty9njtwVslU_mPQ "image")  
-**Step 6:** After adding blank tag You have choose a file from file dialog box open after clicking on file icon  
-  
-![Save](https://lh7-us.googleusercontent.com/docsz/AD_4nXeYTNMAMJb4rl6UW7D8ktXe9OIXadZTysHGQ_V8dYHHQnNyIkZFU0vWgQ-AbyApASaWb1IINC4taJB1lsYTrJDybGDdaKgKetFKXdqNZhOTQMDC0nAngadsAzDzvJIDDbjDy4CrWoNHtxXMwaKmauZ-eceo?key=kHYbKBaty9njtwVslU_mPQ "Save")  
-**Step 7:** After the entry is submitted wait for approved by LG Team  
-  
-![Submit](https://lh7-us.googleusercontent.com/docsz/AD_4nXegs8HNfR2Si_6r_jxzMGn0Hifd6FydiSHULSNGzVMwXCe2NshiNRoCKNbaWWWs5Si90HUbNxraiXPWm9TFX-JmYzkX_WZLFWTNJFtDPqepo9iM6xHv7Lxta4ylGx9PlCxsoCCW1kLuHvoRvU1pCS89oB6Y?key=kHYbKBaty9njtwVslU_mPQ "Submit")  
-_**Note :**_ 1. keep image blank only if you will keep any link or contain it will overwrite it  
-Make sure that image is selected in order you have enter the image tag to display.
+Welcome! All contributions to LG Wiki are submitted as Markdown files via GitHub Pull Requests. Following these guidelines keeps the documentation unified, readable, and automatically indexed in the portal.
+
+---
+
+## Submission Workflow
+
+### 1. Fork the Repository
+Visit [LiquidGalaxyLAB/lg-wiki-content](https://github.com/LiquidGalaxyLAB/lg-wiki-content) and click **Fork** to create your copy.
+
+### 2. Create a Branch
+Branch off `main` with a clear, lowercase name like `add/kml-balloon-guide`. Never push directly to `main`.
+
+### 3. Add your Markdown File
+Create a new `.md` file inside the `content/` folder (e.g. `content/how-to-orbit.md`).
+
+### 4. Add Images
+Save images under `content/images/` and reference them relatively inside your Markdown:
+```markdown
+![Alt text](images/image-id.jpg)
+```
+
+### 5. Update index.json
+Add an object entry to `index.json` at the repository root:
+```json
+{
+  "pages": [
+    ...
+    {
+      "id": "how-to-orbit",
+      "title": "How to Orbit around a coordinate",
+      "file": "how-to-orbit.md"
+    }
+  ]
+}
+```
+
+### 6. Open a Pull Request
+Push your branch and submit a PR against `main`. Maintainers will review and merge it.
+
+---
+
+## Repository Rules
+
+### Rule 1: File Naming Conventions
+Your filename becomes the URL slug. It must be entirely lowercase, using only hyphens as separators. Never use spaces, uppercase, or underscores.
+*   **Correct:** `how-to-setup-slaves.md`
+*   **Incorrect:** `How_To_Setup_Slaves.MD`
+
+### Rule 2: Required Frontmatter Block
+Every article must start with a YAML frontmatter block. Fill out this template:
+```yaml
+---
+title: "Your Article Title"
+contributor: "Your Full Name"
+date: 2026-07-10T00:00:00.000+00:00
+---
+```
+> [!WARNING]
+> If your title contains a colon (e.g. `KML: A Beginner Guide`), wrap the title string in double quotes to prevent YAML parsing crashes.
+
+### Rule 3: Content Structure & Headings
+Use proper Markdown heading levels (`##`, `###`) so the "On This Page" TOC sidebar builds automatically. Never use `# h1` as it is reserved for the dynamically generated page title.
+*   Do not use bold lines like `**Setup**` as headers. Use `## Setup` instead.
+
+---
+
+## Pre-Submission Checklist
+*   [ ] YAML frontmatter contains title, contributor, and date.
+*   [ ] Filename is lowercase and ends with `.md`.
+*   [ ] File contains at least one `##` heading.
+*   [ ] Images are in `content/images/` and referenced relatively.
+*   [ ] No external/cloud image links (such as Appwrite or Blogger).
+*   [ ] The page entry has been appended to `index.json`.
