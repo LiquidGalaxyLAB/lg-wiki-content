@@ -1,9 +1,9 @@
 ---
-title: SetRefresh function\:
+title: "SetRefresh function\:"
 contributor: Vertika Bajpai
 date: 2024-06-13T10:09:16.076+00:00
 ---
-
+## Overview
 \
 → This commands adds a network link that refreshes the slave LG’s every 2 seconds\
 \

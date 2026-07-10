@@ -1,5 +1,5 @@
 ---
-title: Logos and KMLs Not Appearing\: LG Refresh Mechanism
+title: "Logos and KMLs Not Appearing\: LG Refresh Mechanism"
 contributor: Darpan Baviskar
 date: 2026-02-19T12:56:50.249+00:00
 ---

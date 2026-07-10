@@ -3,8 +3,7 @@ title: How to contribute to LG-Wiki
 contributor: Dev T Gadani
 date: 2024-06-10T07:58:28.181+00:00
 ---
-
-  
+## Overview
 **Step 1:** Go to Documentation tab  
   
 ![home tab](https://lh7-us.googleusercontent.com/docsz/AD_4nXdmbNcCsmexHGan7bFTAWZrfpV4FT9d08kZFVn-NIOXESxBBY--ztzkwEIVnrNOLqt8JZ6NNEjUtzap2e4Vl9QP3ZMU4iBMRLZNf_s2g29VQZqrPWCLPXoKBtv67j67vktyjsQg9EMCmpnoW86G00jvEPM?key=kHYbKBaty9njtwVslU_mPQ "home tab")  

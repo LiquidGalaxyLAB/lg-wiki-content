@@ -3,8 +3,7 @@ title: Creating and initializing a SQFlite database
 contributor: Davit Mas
 date: 2024-06-13T15:50:17.851+00:00
 ---
-
-  
+## Overview
 SQFlite is a powerful plugin for integrating a SQLite database into Flutter applications. With SQFlite, a developer can efficiently store and manage data locally on a user’s device.  
   
 _**Getting Started**_  

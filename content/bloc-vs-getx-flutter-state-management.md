@@ -1,5 +1,5 @@
 ---
-title: Bloc vs. GetX\: Flutter State Management
+title: "Bloc vs. GetX\: Flutter State Management"
 contributor: Shiven Upadhyay
 date: 2024-06-13T13:24:40.882+00:00
 ---
@@ -16,12 +16,12 @@ _**Bloc**_
 Bloc (Business Logic Component) is a reactive state management library.  
 It separates business logic from the UI, making code more modular and maintainable. Ideal for large and complex apps.  
   
-**Features:**  
+## Features:
 **→ Strong Typing:** Helps catch errors during development.  
 **→ Testability:** Easier to write unit tests.  
 **→ Scalability:** Suitable for projects of all sizes.  
 **→ Community Support:** Reliable and stable.  
-**Limitations:**  
+## Limitations:
 **→ Learning Curve:** Requires understanding reactive programming.  
 **→ Boilerplate Code:** Initial setup can be challenging.  
 **→ Complexity:** Multiple moving parts.  
@@ -37,13 +37,13 @@ _COUNTER APP EXAMPLE IN BLOCK_
 _**GetX**_  
 GetX is lightweight and easy to use. It is based on dependency injection and observes patterns. It works great for smaller apps.  
   
-**Features:**  
+## Features:
 Ease of Use: Simple and intuitive API.  
 Performance: Efficient with a small footprint.  
 Less Boilerplate Code: Quick to get started.  
 Community Support: Growing community.  
   
-**Limitations:**  
+## Limitations:
 Lack of Strong Typing: Error catching may be harder.  
 Less Testability: Less separation of concerns compared to Bloc.  
   

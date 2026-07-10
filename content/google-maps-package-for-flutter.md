@@ -54,7 +54,7 @@ Obtain API Key: Get an API key from Google Cloud Console.link to google console 
 For more details, see Getting started with Google Maps Platform.
 link { https://developers.google.com/maps/get-started }\
 \
-**Code Example:**
+## Code Example:
 ```dart
 class MapSample extends StatefulWidget {
   const MapSample({super.key});

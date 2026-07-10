@@ -3,8 +3,7 @@ title: KML (Keyhole Markup Language) and its use in the LG Tasks.
 contributor: Satwik Mohan
 date: 2024-06-07T14:20:29.781+00:00
 ---
-
-  
+## Overview
 _**What is KML and How to use it?**_  
   
 KML stands for Keyhole Markup Language is a programming language that includes specification for features to view in Google Earth and Maps. It is an XML based file format for displaying geographic information. It helps in expressing geographic annotations and visualisation on a 2-D map or a 3-D Earth. KML files contain placemarks, images, polygons, 3D Models and textural description. In your LG environment you can perform tasks like orbiting around your home city or printing an HTML bubble on a slave with the help of KML. The logos that appear on the left slave while using Liquid Galaxy application are made using KML.  

@@ -3,7 +3,7 @@ title: Running LG Commands Via SSH
 contributor: Ryan Kim
 date: 2024-06-05T09:06:19.427+00:00
 ---
-
+## Overview
 Liquid Galaxy has a lot of useful commands that run on the LG rigs after the setup. The most common command and the one everyone has likely used when setting up is lg-relaunch, which is run on the master VM to reboot all the machines in the system.  
   
 When we develop Flutter applications to communicate with our Liquid Galaxy, the apps connect via SSH with a package found for the compatible Dart version. LG commands can be attempted to run through these apps but will unfortunately not execute as it will state "Permission Denied". This is because when we connect to our LG via SSH, we do lg@<ip address> but the lg command scripts are written under root@<ip address>, so users do not have sufficient permissions to run them normally as shown below:  

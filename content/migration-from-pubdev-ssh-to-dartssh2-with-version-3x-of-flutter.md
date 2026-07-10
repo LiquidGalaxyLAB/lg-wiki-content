@@ -53,7 +53,7 @@ dartssh2:
 _**Migrating from dartssh to dartssh2**_  
   
 If you are currently using dartssh in your Flutter project, it is recommended to migrate to dartssh2 to take advantage of its benefits and avoid compatibility and maintenance issues.  
-**Here are some general steps for the migration:**  
+## Here are some general steps for the migration:
   
 → Replace the dependency: In your pubspec.yaml file, replace the ssh dependency with dartssh2.  
   

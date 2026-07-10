@@ -1,5 +1,5 @@
 ---
-title: Using GetX for state management in Flutter\:
+title: "Using GetX for state management in Flutter\:"
 contributor: Aritra Biswas
 date: 2024-06-05T13:06:54.417+00:00
 ---

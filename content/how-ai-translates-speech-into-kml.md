@@ -4,7 +4,7 @@ contributor: Saumya Bhattacharya
 date: 2026-02-12T11:46:41.129+00:00
 ---
 
-**How AI translates Speech into KML**
+## How AI translates Speech into KML
 -------------------------------------
 
 Modern AI systems are no longer confined to answering questions, they can control environments as well.Imagine standing before a Liquid Galaxy and saying, “Take me to the Eiffel Tower” and instantly, the screens glide across the globe and zoom into Paris. While this might feel like magic, it is actually a pipeline of Natural Language Processing and dynamic code generation. The complete translation pipeline consists of six interconnected stages that transform user intent into visual output:

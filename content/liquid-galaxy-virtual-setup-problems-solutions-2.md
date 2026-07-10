@@ -3,8 +3,7 @@ title: Liquid Galaxy Virtual Setup Problems & solutions
 contributor: Mahinour Alaa
 date: 2024-06-06T09:45:36.131+00:00
 ---
-
-  
+## Overview
 _**Problem-1:**_ Google Earth launches on Master, but not on the slaves or one of the slaves.  
 _**Reason-1:**_ Network error during LG setup  
   

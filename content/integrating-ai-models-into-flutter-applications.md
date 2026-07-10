@@ -9,7 +9,7 @@ _**Introduction**_
   
 Integrating Artificial Intelligence (AI) models into Flutter applications can significantly enhance their functionality, making them more intelligent and responsive to user inputs. Flutter, with its robust framework for building cross-platform applications, provides a great platform for incorporating AI capabilities seamlessly. This wiki document aims to provide a comprehensive guide on how to integrate AI models into Flutter applications effectively. Let’s Learn more about it by building a classification application.  
   
-**Table of Contents**  
+## Table of Contents
   
 1 - Understanding AI Integration in Flutter  
 2 - Model Training (Teachable Machines)  

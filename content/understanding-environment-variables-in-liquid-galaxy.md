@@ -6,7 +6,7 @@ date: 2026-03-01T19:57:55.448+00:00
 
 # Understanding Environment Variables in Liquid Galaxy
 
-**Category: Rig Side**
+## Category: Rig Side
 
 System-wide configurations that affect the behaviour of programs and services are known as “environment variables”. In Liquid Galaxy configurations, environment variables are used to define execution paths, display settings, and operational parameters.
 

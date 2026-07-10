@@ -3,7 +3,7 @@ title: Integration of Local Database ( Using Hive )
 contributor: Vivek Maurya
 date: 2024-06-11T14:47:02.929+00:00
 ---
-
+## Overview
 \
 While writing an app that needs to persist and query large amounts of data on the local device,we consider using a database instead of a local file or key-value store. In general, databases provide faster inserts, updates, and queries compared to other local persistence solutions.\
 \

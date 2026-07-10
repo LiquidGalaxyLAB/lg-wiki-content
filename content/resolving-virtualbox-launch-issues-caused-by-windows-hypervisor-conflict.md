@@ -44,7 +44,7 @@ These features enable Hyper-V components, which override the virtualization laye
 
 * * *
 
-**A few fixes-**
+## A few fixes-
 ----------------
 
 * * *
@@ -86,5 +86,5 @@ Once restarted, open VirtualBox and try launching or installing your virtual mac
 5\. Optional: Switching Between WSL2 and VirtualBox
 ---------------------------------------------------
 
-**Note:**  
+## Note:
 If you use both WSL2 and VirtualBox regularly, you may need to toggle these features on and off depending on your current task.

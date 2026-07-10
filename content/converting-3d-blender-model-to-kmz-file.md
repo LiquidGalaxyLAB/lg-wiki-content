@@ -3,7 +3,7 @@ title: Converting 3D Blender Model to KMZ File
 contributor: Shuvam Swapnil Dash
 date: 2025-02-27T08:36:23.521+00:00
 ---
-
+## Overview
 Three-dimensional KMLs elevate the sense of visualization by showing architectural marvels, historical monuments, buildings, and other structures on the Liquid Galaxy rig. Blender is an open-source software for creating 3D models using various shapes, colors, and textures. To achieve our visualizations, the Blender model can be converted to the KMZ format.
 
 * * *

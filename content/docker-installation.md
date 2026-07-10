@@ -9,7 +9,7 @@ _**1\. Docker Installation**_
   
 Install Docker for containerization.  
   
-**Steps:**  
+## Steps:
 In the terminal put the next commands:  
 _$ dnf -y install docker_  
   
@@ -22,7 +22,7 @@ _**2\. Configuration**_
   
 Configure Docker to use /var for storage.  
   
-**Steps:**  
+## Steps:
 To configure Docker to use /var for storage, you need to adjust Docker's configuration file.  
 Typically, this file is located at /etc/docker/daemon.json. If the file doesn't exist, you can create it.  
 Below are the steps to configure Docker to use /var for storage:  
@@ -49,7 +49,7 @@ Now, Docker will use /var/docker as the storage location for its data.
   
 _**Regarding the user setup and username guidelines:**_  
   
-**User Setup and Guidelines for Usernames:**  
+## User Setup and Guidelines for Usernames:
 Establishing guidelines for usernames is crucial for maintaining consistency and security within a system. Here's an example of guidelines for usernames:  
   
 → It has to be all lowercase.  

@@ -3,7 +3,7 @@ title: Duplicate Earth on Slave Screens and Blank Master After lg-relaunch
 contributor: Raksha AK
 date: 2026-02-25T17:22:01.498+00:00
 ---
-
+## Overview
 Duplicate Earth on Slave Screens and Blank Master After lg-relaunch
 ===================================================================
 

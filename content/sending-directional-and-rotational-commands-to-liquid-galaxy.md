@@ -3,7 +3,7 @@ title: Sending Directional and Rotational Commands to Liquid Galaxy.
 contributor: Sidharth Mudgil
 date: 2024-06-05T10:12:20.935+00:00
 ---
-
+## Overview
 **Using xdotool for Commands**\
 
 Normally, you'd press keys to control Liquid Galaxy. But if you're using a mobile device, you need a different way. We use a tool called xdotool to simulate keypresses. Before sending commands, make sure the Google Earth app, which runs on Liquid Galaxy, is open and has connected with the Application via SSH.\

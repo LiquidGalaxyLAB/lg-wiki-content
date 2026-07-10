@@ -1,5 +1,5 @@
 ---
-title: Questions and Answers from the Discord\:
+title: "Questions and Answers from the Discord\:"
 contributor: Youssef khalid mahmoud
 date: 2024-03-18T09:21:57.362+00:00
 ---
@@ -100,7 +100,7 @@ sudo iptables -F
 
 ![Image](images/65f807b4418293aff8ac.jpg)
 
-**A-**
+## A-
 
 *   Make sure you connected masters and slave VMs to a NAT network, not NAT, which is used by default.
 *   Make sure your ISP hasn't blocked port 22, try using different network connection like mobile data hotspot.

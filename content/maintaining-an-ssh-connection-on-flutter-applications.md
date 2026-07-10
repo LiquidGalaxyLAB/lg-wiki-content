@@ -3,7 +3,7 @@ title: Maintaining an SSH Connection on Flutter Applications
 contributor: Ryan Kim
 date: 2024-06-05T09:55:40.481+00:00
 ---
-
+## Overview
 Every Flutter application that we create must have an SSH connection manager page, which is used to allow users to type in the IP address, username, password, and port to establish an SSH connection to our Liquid Galaxy, as well as sometimes the number of screens to properly display content and run certain functionalities. A sample connection manager page is shown below:  
   
 ![Entry4_Connection_Manager_Page](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF4jc7FjAzuLrNEoczVIX-rv6q-WeUNfLtGz2-o4mhTScv3joDPtc_KlEErcgDVmq2gZRsQ4T5x_IeMKpJqC4SvgP1wKCRuybqg-eAZpc24xK8FMcYyKwN7-pS9cdN_s5XXM2407okjF1WoJnv0hHqniLbWrDkpremfd9nC4xHBKJ2fuyKvzx3d1ak4tg/s320/Entry4_Connection_Manager_Page.png "Entry4_Connection_Manager_Page")  

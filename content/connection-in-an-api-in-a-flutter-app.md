@@ -3,7 +3,7 @@ title: Connection in an API in a Flutter App
 contributor: Davit Mas
 date: 2024-06-14T07:08:52.960+00:00
 ---
-
+## Overview
 \
 ***Connection to an API:*** While doing a Flutter app, you may encounter the need for creating an API or accessing one. Luckily, Flutter has you covered. There are two types of API’s you will encounter, those being remote ones and local ones. Here’s how you can establish connection to both of them:\
 \

@@ -32,7 +32,7 @@ State management is at the core of any interactive application. It involves trac
 _**State Management Techniques:**_  
 Flutter offers several state management techniques, each with its own strengths and use cases:  
   
-**Local State (SetState):**  
+## Local State (SetState):
   
 → Use Case: For small, simple apps or when managing UI-specific state within a single widget.  
 → Example:
@@ -49,7 +49,7 @@ void _incrementCounter() {
 ```
 
   
-**InheritedWidget:**  
+## InheritedWidget:
   
 → Use Case: For sharing data down the widget tree without rebuilding the entire tree. → Example:
 
@@ -67,7 +67,7 @@ class MyInheritedWidget extends InheritedWidget {
 ```
 
   
-**Provider (and Riverpod):**  
+## Provider (and Riverpod):
   
 → Use Case: For a straightforward, scalable solution to manage state and dependency injection.  
 → Example:
@@ -83,7 +83,7 @@ void incrementCounter() {
 ```
 
   
-**Redux (and Flutter-Redux):**  
+## Redux (and Flutter-Redux):
   
 → Use Case: For managing complex application states, especially when dealing with a large amount of shared data.  
 → Example:
@@ -98,7 +98,7 @@ int counterReducer(int state, action) {
 ```
 
   
-**GetX:**  
+## GetX:
   
 → Use Case: For a simple, reactive state management solution that includes state, dependencies, and routing.  
 → Example:
@@ -113,7 +113,7 @@ void increment() {
 ```
 
   
-**BLoC (Business Logic Component):**  
+## BLoC (Business Logic Component):
   
 → Use Case: For managing the state of an app by separating business logic from the UI layer.  
 → Example:
@@ -127,7 +127,7 @@ class CounterBloc {
 ```
 
   
-**When to Choose Each State Management Solution:**  
+## When to Choose Each State Management Solution:
   
 → SetState: Ideal for small apps, quick prototyping, or managing simple UI-specific states within a single widget.  
 → InheritedWidget: Suitable for passing data down the widget tree without needing external packages.  
@@ -143,17 +143,17 @@ class CounterBloc {
 _**What is the difference between code architecture and state management?**_  
 State management is a way to manage the data through the application but the code architecture is a development concept that is applied during the implementation phase to help the developers maintain the code easily and also help them to add features based on customer’s requirements.  
   
-**Architecture Example (compatible with Bloc design pattern):**  
+## Architecture Example (compatible with Bloc design pattern):
   
 ![Architecture Example](https://lh7-us.googleusercontent.com/docsz/AD_4nXc39CD86nsWaBaIk9jYByPHYiN-DY9D9E9N5bQtnpb8aB12lOWhqTjmtxgKxinqRmHfm3p8LHPSu-egmyLyvcmsUCkyHF02jQVfRITRzOtyqrgEdmcmbtUGhfMUOHRCoNkJ4Y2xRgROCN3ijEBNKvTO8eIl?key=eXYxpY5rbSPIPtG3SWVZIQ "Architecture Example")  
-**Architecture Layers:**  
+## Architecture Layers:
 1 - Presentation layers  
 2 - Business layer  
 3 - Data  
 → Repository  
 → Data Provider  
   
-**Data Layer:**  
+## Data Layer:
 The data layer’s responsibility is to retrieve/manipulate data from one or more sources.  
   
 The data layer can be split into two parts:  
@@ -162,23 +162,23 @@ The data layer can be split into two parts:
   
 This layer is the lowest level of the application and interacts with databases, network requests, and other asynchronous data sources.  
   
-**Data Provider**  
+## Data Provider
 The data provider’s responsibility is to provide raw data. The data provider should be generic and versatile. The data provider will usually expose simple APIs to perform CRUD operations. We might have a createData, readData, updateData, and deleteData method as part of our data layer.  
   
 ![Data Provider](https://lh7-us.googleusercontent.com/docsz/AD_4nXd33Jey6r-YgCI8K_dZQQmrmYoDOJZIlG7WBCtcC6b2Nerhd64oOgNJSglafSoBHFalykojjubiA4SolM0U2FTEss10K5sOXzVTJW5QHPkLeD7BYX1nhgtz8KkiURxlgUtyV6A2MMEPhSl265KHQWmxzk2j?key=eXYxpY5rbSPIPtG3SWVZIQ "Data Provider")  
-**Repository**  
+## Repository
 The repository layer is a wrapper around one or more data providers with which the Bloc Layer communicates.  
   
 ![Repository ](https://lh7-us.googleusercontent.com/docsz/AD_4nXdWYcOcgj7l30kJqacHgw3Anc6brCTvX824gTn4j6lTTgxhC5i9cJ2a0EnXysfmMxgCRZrgTkLLJfMvUlTDab-DxC9zIFFSQJtNTnSR4T6iQlWn8HhpZQzBcUIN8XRJAQJ5nRcakzdImc4RnW6Us40U01by?key=eXYxpY5rbSPIPtG3SWVZIQ "Repository ")  
 As you can see, our repository layer can interact with multiple data providers and perform transformations on the data before handing the result to the business logic Layer.  
   
-**Business Logic Layer**  
+## Business Logic Layer
 The business logic layer’s responsibility is to respond to input from the presentation layer with new states. This layer can depend on one or more repositories to retrieve data needed to build up the application state.  
   
 Think of the business logic layer as the bridge between the user interface (presentation layer) and the data layer. The business logic layer is notified of events/actions from the presentation layer and then communicates with repository in order to build a new state for the presentation layer to consume.  
   
 ![Business Logic Layer](https://lh7-us.googleusercontent.com/docsz/AD_4nXeyvhJXOud4Fm6-41Cmo4tMeTSf8uLdZDSSyw98dJ1vRv3fK_QXQ9ELgoZz-yQ5ahFd5gMXG3IYmaavWoQcoTgJSCIF6qxFgWanNavJZI8HPs6MslfMcQ3jS-RoKnjYlYe75IzLvyhYfSlFCCQlrkk-MX5B?key=eXYxpY5rbSPIPtG3SWVZIQ "Business Logic Layer")  
-**Presentation Layer**  
+## Presentation Layer
 The presentation layer’s responsibility is to figure out how to render itself based on one or more bloc states. In addition, it should handle user input and application lifecycle events.  
   
 Most applications flows will start with a “AppStart” event which triggers the application to fetch some data to present to the user.  

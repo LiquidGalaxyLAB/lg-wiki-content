@@ -96,7 +96,7 @@ _**2.Ground Overlays**_
   
 Ground overlays enable you to "drape" an image onto the Earth's terrain. The <Icon> element contains the link to the .jpg file with the overlay image.  
   
-**Example:**
+## Example:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -134,7 +134,7 @@ Many different types of paths can be created in Google Earth, and it is easy to 
   
 The **<tessellate>** tag breaks the line up into smaller chunks, and the **<extrude>** tag extends the line down to the ground.  
   
-**Example:**
+## Example:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>

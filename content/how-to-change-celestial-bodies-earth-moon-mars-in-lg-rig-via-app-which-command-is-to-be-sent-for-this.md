@@ -8,7 +8,7 @@ date: 2026-02-13T12:36:33.073+00:00
 
 &nbsp;
 
-**Command  &nbsp;  : &nbsp; echo ‘planet=mars’ > /tmp/query.txt** 
+## Command  &nbsp;  : &nbsp; echo ‘planet=mars’ > /tmp/query.txt
 
 &nbsp;
 
@@ -20,7 +20,7 @@ date: 2026-02-13T12:36:33.073+00:00
 
 &nbsp;
 
-**Code :** 
+## Code :
 
 ```
 Future<void> changeCelestialBody(String body) async {
@@ -37,7 +37,7 @@ Future<void> changeCelestialBody(String body) async {
 &nbsp;
 
 
-**Code :** 
+## Code :
 
 ```
 SSHClient? _client ;

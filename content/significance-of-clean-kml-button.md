@@ -4,7 +4,7 @@ contributor: Saumya Bhattacharya
 date: 2026-02-12T12:05:23.050+00:00
 ---
 
-**Significance of ‘Clean KML’ Button**
+## Significance of ‘Clean KML’ Button
 --------------------------------------
 
 The Clean KML button is a critical feature for managing visualizations on Liquid Galaxy systems.

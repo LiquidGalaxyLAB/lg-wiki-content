@@ -10,7 +10,7 @@ This guide outlines how to craft kmls using images and integrate them into Liqui
   
 This guide also provide essential info on where to send those kml depending on wich lg screen you want to display the image  
   
-**Software Required:**  
+## Software Required:
 → Liquid Galaxy Rig  
 → Image editing software (optional) I  
 #. I recommend Figma  
@@ -23,7 +23,7 @@ This guide also provide essential info on where to send those kml depending on w
   
 _**Steps:**_  
   
-**1 - Prepare your Images:**  
+## 1 - Prepare your Images:
 → Gather the images you want to display in your presentation.  
 → Ensure they are compatible formats like JPG or PNG( for better compatibility).  
 → You can use image editing software such as **Figma** (if it is a big project) to adjust dimensions or add basic text overlays if desired.  
@@ -34,7 +34,7 @@ _**Steps:**_
 → Once uploaded, copy the direct image link for each image(Save that link as you will be using it later for creating the kml file)  
   
 **3 - Render an image in Liquid Galaxy (Template approach):**  
-**→ Understanding how it the files works**  
+## → Understanding how it the files works
 #. Here is a diagram of the **main** files of the LG  
   
 ![3(2)](https://lh7-us.googleusercontent.com/docsz/AD_4nXfrjED5EGI4PrKhmJ0lLcT2a1CXbW646mB9GSgYYyuRcwbOP46Spz69yfhWL2_Pcm6G7-HSUBn4US8fgUHnWKFIfD2HKcYEYeGkkKMbxV3kA1KFt2QBeaTdFvxwaNMIUmsuVOMQYZhTJPQQEPzJ1JDfN9GS?key=k6moduDEHt5w3PzJbFvSIA "3(2)")  
@@ -108,7 +108,7 @@ _**Steps:**_
 ```
 
   
-**4 - Change from different images:**  
+## 4 - Change from different images:
 → Launch the Liquid Galaxy Client.  
 → If using a image you already uploaded to imgur.com follow the specific instructions provided above for loading the template and displaying your content.  
   
@@ -116,5 +116,5 @@ _**Steps:**_
 * * *
 
   
-**Conclusion**  
+## Conclusion
 So you can now play with the different percentages in each kml file to be able to render any image onto the google earth software in the Liquid galaxie rigs

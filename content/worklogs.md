@@ -5,7 +5,7 @@ date: 2024-06-12T08:05:21.692+00:00
 ---
 
   
-**How to document your work?**  
+## How to document your work?
 This is something you do after being selected, but it’s always better to start early so continue reading this section don’t waitt!!!!  
   
 Example form Yash’ worklogs  

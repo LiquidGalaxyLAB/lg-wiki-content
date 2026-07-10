@@ -6,7 +6,7 @@ date: 2026-03-01T19:49:49.430+00:00
 
 # Understanding File Permissions and Ownership in Liquid Galaxy
 
-**Category: Rig Side**
+## Category: Rig Side
 
 Let’s look at how Liquid Galaxy operates on Linux-based systems with every file/directory having ownership/permissions associated with it and how this can affect how Liquid Galaxy functions since it will reference scripts, KML files, configuration files and web directories. Any misconfigured permissions can prevent the individual components from functioning correctly.
 

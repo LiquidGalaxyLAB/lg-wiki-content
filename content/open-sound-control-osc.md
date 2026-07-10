@@ -29,7 +29,7 @@ We use the [osc](https://pub.dev/packages/osc) package in order to implement OSC
 \
 Currently OSC is being used in LG Laser Slides Application which allows users to manipulate the laser slides in the BEYOND software from a tablet device.\
 \
-**Adding required dependency:**
+## Adding required dependency:
 ```terminal
 dependencies:
   osc: ^1.0.0

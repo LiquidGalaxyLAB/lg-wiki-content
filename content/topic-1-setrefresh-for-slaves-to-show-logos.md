@@ -1,5 +1,5 @@
 ---
-title: Topic 1\: setRefresh for slaves to show logos
+title: "Topic 1\: setRefresh for slaves to show logos"
 contributor: Manas Dalvi
 date: 2024-06-11T16:05:49.404+00:00
 ---
@@ -7,7 +7,7 @@ date: 2024-06-11T16:05:49.404+00:00
   
 A Liquid Galaxy setup consists of a master machine and multiple slaves, occasional issues may arise where KML content fails to display on the slave screens despite being sent. This phenomenon often requires a reboot of the entire rig for the content to appear. So whenever some data is sent to slave\_x.kml it does not reflect in the system. To address this, a function called setRefresh can be implemented. This function automatically refreshes the Liquid Galaxy system at specified intervals, ensuring that any sent data, such as legends and logos on slave screens, is consistently displayed without the need for any manual intervention.  
   
-**Code:**
+## Code:
 
 ```dart
 setRefresh() async {

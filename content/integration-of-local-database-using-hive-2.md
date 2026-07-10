@@ -18,7 +18,7 @@ We can use Hive, which is a lightweight and fast NoSQL database that can be used
   
 _**Using Hive Database :**_  
   
-**Initializing Hive**  
+## Initializing Hive
 Initializing Hive with a valid directory in app files or we can also provide a subdirectory:
 
 ```dart
@@ -26,7 +26,7 @@ await Hive.initFlutter();
 ```
 
   
-**Opening a Box**  
+## Opening a Box
 All of the data is stored in boxes.\\
 
 ```dart
@@ -34,7 +34,7 @@ var box = await Hive.openBox('testBox');
 ```
 
   
-**Read & Write**  
+## Read & Write
 Hive supports all primitive types, List, Map, DateTime, BigInt and Uint8List.
 
 ```dart

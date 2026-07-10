@@ -5,7 +5,7 @@ date: 2024-06-10T13:42:00.432+00:00
 ---
 
   
-**Introduction**  
+## Introduction
   
 This documentation contains the step-by-step process for setting up a server environment tailored for AI projects. The setup includes the installation of rocky Linux, Docker, user setup, Docker Compose configuration, networking settings, and testing procedure. This guide ensures a smooth and systematic setup process for hosting AI projects efficiently.  
   
@@ -36,7 +36,7 @@ _$ rpm -qa | sort_
 _**Repository Verification: Check if the EPEL repository is installed:**_  
 _$ dnf list installed | grep epel-release_  
   
-**Update Repositories: Update the repositories without updating packages:**  
+## Update Repositories: Update the repositories without updating packages:
 _$ dnf makecache_  
   
 **Check for Updates: Check for available updates without applying them:**  
@@ -45,7 +45,7 @@ _$ dnf check-update_
 **Group Installation Verification: Check if the base package group is installed:**  
 _$ dnf group list_  
   
-**Package Cache Cleanup: Clean up the package cache:**  
+## Package Cache Cleanup: Clean up the package cache:
 _$ dnf clean all_  
   
 **Final State Confirmation: Recheck installed packages to see if any updates were applied:**  
@@ -80,13 +80,13 @@ _$ docker run hello-world_
   
 _**Host Docker Images on Docker Hub:**_  
   
-**Ensure Docker Hub login is successful:**  
+## Ensure Docker Hub login is successful:
 _$ docker login_  
   
-**Check Docker images:**  
+## Check Docker images:
 _$ docker images_  
   
-**Push an image to Docker Hub:**  
+## Push an image to Docker Hub:
 _$ docker push front-studentname/image:latest_  
   
 Verify that the image is successfully hosted on Docker Hub.  

@@ -14,7 +14,7 @@ First thing you will need to take a look on the [Master proposal GSoC 2024 for L
 3 - Roadmap  
 4 - Timeline  
   
-**General Ideas when writing your proposal:**  
+## General Ideas when writing your proposal:
   
 (Text in bold from the slide, a normal one are notes taken from what he said)  
 → **Be creative with your content and presentation** (Have some sort of graphical representation, use cases, add your own expansion for the idea that is written in the idea list)  
@@ -26,7 +26,7 @@ First thing you will need to take a look on the [Master proposal GSoC 2024 for L
 → **Lastly, stay in touch with your mentors and admins for guidance**  
 (The most important, communication is the key)  
   
-**Some additional note:**  
+## Some additional note:
   
 → Make sure to add some figma(or other design software) UI samples screens of how you imagine your application to look like.  
 → Be active in the community and ask for any changes or suggestions needed in your proposal. (Strictly follow the timeline)  
@@ -34,39 +34,39 @@ First thing you will need to take a look on the [Master proposal GSoC 2024 for L
 _**GSOC 2024 Timeline**_  
   
 ![time_line](https://lh7-us.googleusercontent.com/docsz/AD_4nXdHw8TJnPmYP-kynoPIeToXBuAAlPOgKtsXHlg_9VZMMl24a_SV1qsq_Md0nAdH0MpltIo0ifYbU8wyvjhH75n00q2cghh1aR_Z-l_y9L_HpZAwlR96sXmeuUTtODvVLD3V5HEsCqE9UENe_V0qqHnxJXW0?key=6QIJ7xTnSOgsVUcvzhchVw "time_line")  
-**January 22 - 18:00 UTC**  
+## January 22 - 18:00 UTC
 Mentoring organizations can begin submitting applications to Google  
-**February 6 - 18:00 UTC**  
+## February 6 - 18:00 UTC
 Mentoring organization application deadline  
-**February 6 - 20**  
+## February 6 - 20
 Google program administrators review organization applications  
-**February 21 - 18:00 UTC**  
+## February 21 - 18:00 UTC
 List of accepted mentoring organizations published  
-**February 22 - March 18**  
+## February 22 - March 18
 Potential GSoC contributors discuss application ideas with mentoring organizations  
-**March 18 - 18:00 UTC**  
+## March 18 - 18:00 UTC
 GSoC contributor application period begins  
-**April 2 - 18:00 UTC**  
+## April 2 - 18:00 UTC
 GSoC contributor application deadline  
-**April 24 - 18:00 UTC**  
+## April 24 - 18:00 UTC
 GSoC contributor proposal rankings due from Org Admins  
-**May 1 - 18:00 UTC**  
+## May 1 - 18:00 UTC
 Accepted GSoC contributor projects announced  
-**May 1 - 26**  
+## May 1 - 26
 Community Bonding Period | GSoC contributors get to know mentors, read documentation, get up to speed to begin working on their projects  
-**May 27**  
+## May 27
 Coding officially begins!  
-**July 8 - 18:00 UTC**  
+## July 8 - 18:00 UTC
 Mentors and GSoC contributors can begin submitting midterm evaluations  
-**July 12 - 18:00 UTC**  
+## July 12 - 18:00 UTC
 Midterm evaluation deadline (standard coding period)  
-**July 12 - August 19**  
+## July 12 - August 19
 Work Period | GSoC contributors work on their project with guidance from Mentors  
-**August 19 - 26 - 18:00 UTC**  
+## August 19 - 26 - 18:00 UTC
 Final week: GSoC contributors submit their final work product and their final mentor evaluation (standard coding period)  
-**August 26 - September 2 - 18:00 UTC**  
+## August 26 - September 2 - 18:00 UTC
 Mentors submit final GSoC contributor evaluations (standard coding period)  
-**September 3**  
+## September 3
 Initial results of Google Summer of Code 2024 announced  
   
 **The art of writing a good proposal.**  

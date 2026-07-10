@@ -3,8 +3,7 @@ title: The basic LG tasks like Reboot LG, Shutdown LG, Relaunch LG and Clean KML
 contributor: Satwik Mohan
 date: 2024-06-07T13:53:31.771+00:00
 ---
-
-  
+## Overview
 Make sure your application is Connected to your LG environment.  
   
 ![disconnect_preview](https://lh7-us.googleusercontent.com/docsz/AD_4nXe9hSIxdgNFBoC-2LH4lg7Xk6UN3ejYIe4SEFpU528wghsv-h8RPSGnDewXVY62tJAWzYUNd5evuMDeLJVUukcjcWVyq0F9OCCv5wRP5jamsz1kfn5Vw_WEteUpkK_ac_ir8oVaGePPsh2L9xqmMXKkxS0L?key=K0C4XCQuJPHrfhIEpj5Cug "disconnect_preview")  

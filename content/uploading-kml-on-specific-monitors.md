@@ -9,7 +9,7 @@ date: 2024-06-13T09:00:36.864+00:00
 → In the liquid galaxy projects, KMLs are generated using the specific tags and functions and then uploaded on the Liquid Galaxy rigs on the requires slave machine by connecting using SFTPs.  
 → In all the projects logos have to be displayed on the left-most slave machine while the KML balloons on the rightmost slave machine.  
 **→ For uploading Logo on the left of LG rig:**  
-**Logo Example(From LaPalma VolTrack)**  
+## Logo Example(From LaPalma VolTrack)
   
 ![LaPalma](https://lh7-us.googleusercontent.com/docsz/AD_4nXebXssYqewvJSc94Ku6xdAh8c7w_bjvYmkLzMzJZQDw7brDqU4YXGMmmPLQwjgM0AlFpcohknc3D-C6mPW2ExZTUkjbuXqdD_Wy28dyIVOMSbjr_3aTuwBxuQ4I3qR17a5C-Vq85EjmM4Km26lWfTb1IWnw?key=NtnjaCBPeMlyXpDKxPMFSA "LaPalma")  
 For a 5 rig setup, Logos are displayed on the 4th slave machine (leftmost)  

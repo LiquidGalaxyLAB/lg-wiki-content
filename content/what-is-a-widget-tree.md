@@ -3,8 +3,7 @@ title: What is a Widget Tree?
 contributor: Saumya Bhattacharya
 date: 2024-06-07T08:07:41.555+00:00
 ---
-
-  
+## Overview
 In Flutter, the widget tree refers to the hierarchical structure of widgets that compose the user interface (UI) of your application. Each widget in Flutter represents an element of the UI, such as buttons, text inputs, images, containers, etc. The widget tree organizes these widgets in a parent-child relationship, where each widget can contain other widgets as its children.  
   
 At the root of the widget tree is typically the MaterialApp or CupertinoApp widget, which defines the overall configuration of the app, including themes, routes, and other settings.  

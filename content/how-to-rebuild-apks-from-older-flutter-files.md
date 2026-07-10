@@ -3,7 +3,7 @@ title: How to rebuild apks from older flutter files
 contributor: Tathagat Kumar
 date: 2025-03-01T19:31:41.420+00:00
 ---
-
+## Overview
 # How to rebuild apks from older flutter files #
 ---
 Many times, we have an urgent need to compile an apk of a flutter file that we made in the past only to find bugs and errors while rebuilding the apk in the future again. Such errors arise due to several reasons such as deprecated packages, compatibility issues etc. The below documentation will guide on how to tackle the possible errors you will encounter while rebuilding apk of an old flutter app

@@ -13,20 +13,20 @@ Integrating AI models into Flutter apps involves writing platform-specific code 
   
 _**Steps to Integrate AI Models**_  
   
-**1 - Load the Model:**  
+## 1 - Load the Model:
 → Start by creating a function to load your AI model. You’ll need to provide the path to your model file . It should be done in the assets folder.  
   
 ![Load the Model:](https://lh7-us.googleusercontent.com/docsz/AD_4nXdQ8x4pVkjE2lMOV4-Qhrg4ZrHcXZTwK5VLmSR0rXx4iMiAhNNLA_NQxGPgukMdiAG72WCBS-lOQBAkUZjItQwCGQoxtMIjGRZPa-mIeWM6q-PpFFPgtkpGP1LFOgIeb_1rTT4x-Pp4iiaow0U7_OyL57rMUHIzQqc43uya15qtnQvPc3zU3rs?key=b6SXEnVUznO-F3MEDtpmeQ "Load the Model:")  
-**2 - Initialize the Model:**  
+## 2 - Initialize the Model:
 → Set up the initialization state. When your app starts, load the model using the function defined earlier.  
   
 ![Initialize the Model:](https://lh7-us.googleusercontent.com/docsz/AD_4nXdidWkTYdzynSCM15joDKgGyzD7kSaeB-LE-8sD0SgxblnKHgqC18rRlGfHzVk8JpQe15XjLXJsqhyP1vey19ReqaCZO-sXoT-Ei-vkkGqybQ4OrN9qvjQS-dWnVyud6gn1l4CNSZ9cudfEJ_xwKVpPu7y4h86Y9HIbBynl-ifu9HwnAMxrI90?key=b6SXEnVUznO-F3MEDtpmeQ "Initialize the Model:")  
-**3 - Perform Inference:**  
+## 3 - Perform Inference:
 → Create a function (e.g., detect or predict) that performs inference on input data (e.g., images or other data points).  
 → Use the loaded model to classify or predict based on the provided input.  
   
 ![Perform Inference:](https://lh7-us.googleusercontent.com/docsz/AD_4nXdsr-czFT_JIoGgUcfGOqk4FmLK9hr3xggfWwyOOtXnOWq-HlVZ8jXoq6b4GrOUoB159nC9g5cZGUpbBMhTmAiX9DiXbEFMLe11E1-vHxOCgLrSkKwp9uF0pNl6JJP0lvqaOf2T7r44vGsnhYJ5rnz5AoJaIV4xCs2Xlx1wIsqIZO6q1MrHepk?key=b6SXEnVUznO-F3MEDtpmeQ "Perform Inference:")  
-**4 - Utilize the Predictions:**  
+## 4 - Utilize the Predictions:
 → Once you have predictions, use them according to your app’s requirements. For example:  
 #1. Display the predicted class label.  
 #2. Take specific actions based on the prediction (e.g., show relevant content, trigger notifications, etc.).  

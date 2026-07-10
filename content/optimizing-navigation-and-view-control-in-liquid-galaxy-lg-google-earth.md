@@ -1,5 +1,5 @@
 ---
-title: Optimizing Navigation and View Control in Liquid Galaxy (LG) (Google Earth)\:
+title: "Optimizing Navigation and View Control in Liquid Galaxy (LG) (Google Earth)\:"
 contributor: Pablo Asenjo Gonsa
 date: 2024-06-12T16:12:23.717+00:00
 ---
@@ -22,16 +22,16 @@ click in navigation and unmark the enable controller, the hit apply, and it shou
   
 _**Navigation and View Control:**_  
   
-**Panning:**  
+## Panning:
   
 **→ Mouse:** Hold the right mouse button and drag. Imagine dragging the entire view across the display of the **master**.  
 → You can move with the arrows and with the WSAD keys as well.  
   
-**Zooming:**  
+## Zooming:
 **→ Mouse Wheel:** The familiar method applies here. Rotate the wheel to zoom in and out, gaining closer inspection or revealing the grand scale.  
 **→ Dedicated Buttons:** Some LG setups might have designated zoom buttons. Experiment to discover their functionalities.  
   
-**Rotating:**  
+## Rotating:
 **→ Trackpad:** This offers a smooth way to tilt the viewpoint. Move two fingers up or down on the trackpad to achieve the desired tilt.  
 **→ Keyboard shortcuts:** Look for keyboard shortcuts specifically assigned for rotating the view. Consult the user manual or explore the interface for these options.  
   

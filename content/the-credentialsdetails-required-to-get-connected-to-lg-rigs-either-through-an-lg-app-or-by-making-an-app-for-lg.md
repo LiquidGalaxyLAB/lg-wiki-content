@@ -3,8 +3,7 @@ title: The Credentials/details required to get connected to LG Rigs, either thro
 contributor: Baikuntha B Bihari
 date: 2024-06-11T13:24:24.697+00:00
 ---
-
-  
+## Overview
 _**PART - 1**_  
   
 **1 - To Connect your Liquid Galaxy Rigs with any LG app**  

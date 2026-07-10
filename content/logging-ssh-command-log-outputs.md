@@ -3,7 +3,7 @@ title: Logging SSH Command Log Outputs
 contributor: Ryan Kim
 date: 2024-06-05T09:59:12.406+00:00
 ---
-
+## Overview
 Every Flutter application that interacts with the LG rigs will communicate with the machines via SSH. Because of this, we establish the connection via IP address, username, password, and port. When we execute these Linux commands after our connection, any logs or error messages will not be visible to us immediately as they are executed via the application instead. Any Flutter issues such as compilation errors will show on the local code editor such as VS code, but it is also important to see logs of SSH commands that we execute to make sure they are doing what we intended them to do.  
   
 Linux is very powerful as any command can output logs of the result into a file that we define as well as any error messages with a few arguments to the command. After the command in which we wish to execute, we can pass in the ">" argument followed by the file we wish to write to. If the file does not exist, Linux will create the file and then write to it. The ">" command is typically used to indicate that we wish to rewrite the entire content of the file with the output of the command, in this case, it will be the log output. We can also pass in the "2>&1" argument after the directory to redirect the standard error stream (file descriptor 2) to the same location as the standard output stream (file descriptor 1), ensuring that all output, including errors, is captured in the log file. The contents of the log file after running a command are shown below:  

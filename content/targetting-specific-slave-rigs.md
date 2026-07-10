@@ -3,7 +3,7 @@ title: Targetting Specific Slave Rigs
 contributor: Ryan Kim
 date: 2024-06-05T09:01:24.925+00:00
 ---
-
+## Overview
 Liquid Galaxy is run on a Master-Slave architecture, meaning that the master machine is responsible for coordinating and delivering instructions to its slave VMs. In some cases, we may need to run certain KML files targeted to specific slave machines (such as for displaying logos, images, etc.).  
   
 Google Earth constantly polls Liquid Galaxy for updates to its system using an internal PHP server to run the KML files after creation onto the machine. The /var/www/html/kml/ directory is the directory where the KML files are checked after creation and where they should all be stored when creating. To target a specific machine, the file created must be named slave\_x, where x is a positive integer greater than 1 to represent the respective slave rig.  

@@ -1,9 +1,9 @@
 ---
-title: Creating and modifying tables in a SQFlite database\:
+title: "Creating and modifying tables in a SQFlite database\:"
 contributor: Davit Mas
 date: 2024-06-13T16:01:33.443+00:00
 ---
-
+## Overview
 \
 If you have an existent database in your flutter project, you are most likely going to need to be able to add and modify tables to the database.\
 \

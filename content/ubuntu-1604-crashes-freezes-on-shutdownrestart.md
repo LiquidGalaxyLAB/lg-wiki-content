@@ -31,7 +31,7 @@ Typically caused by:
 A few Resolution Methods-
 -------------------------
 
-**A. Grub Fix**
+## A. Grub Fix
 ---------------
 
 Modify GRUB boot parameters to enforce ACPI shutdown signals: ![image](images/69a4299096c641f6e4e8.jpg)
@@ -57,7 +57,7 @@ Finally try rebooting the VM.
 
 * * *
 
-**B. Workaround Command (Temporary Solution)**
+## B. Workaround Command (Temporary Solution)
 ----------------------------------------------
 
 If the issue persists, use the following command to bypass the issue: ![image](images/69a42991c7c4b6079040.jpg)
@@ -70,7 +70,7 @@ This disables swap before shutdown, preventing systemd from hanging on swap-rela
 
 * * *
 
-**C. System Update**
+## C. System Update
 --------------------
 
 Ubuntu provides updated systemd packages in the xenial-proposed repository:
@@ -82,7 +82,7 @@ Ubuntu provides updated systemd packages in the xenial-proposed repository:
 
 * * *
 
-**D. Hardware / Partitioning Resolution**
+## D. Hardware / Partitioning Resolution
 -----------------------------------------
 
 In cases where the VM’s virtual disk maps to a failing HDD or misconfigured partitions: Replace the failing disk. Reinstall Ubuntu with recommended partitioning: Swap → First logical partition Root → Second logical partition Home → Third logical partition

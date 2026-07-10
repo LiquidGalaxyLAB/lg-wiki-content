@@ -8,9 +8,9 @@ date: 2026-02-24T17:15:39.767+00:00
 
 &nbsp;
 
-**Master : Has to look straight (0 degrees)**  
-**Slave 1 : Looks left (e.g. \-60 degrees)**  
-**Slave 2: Looks right (e.g. \+60 degrees)**
+## Master : Has to look straight (0 degrees)
+## Slave 1 : Looks left (e.g. \-60 degrees)
+## Slave 2: Looks right (e.g. \+60 degrees)
 
 &nbsp;
 

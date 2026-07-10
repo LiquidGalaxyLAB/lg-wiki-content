@@ -17,7 +17,7 @@ date: 2026-02-23T10:46:07.508+00:00
 
 &nbsp;
 
-**Code :** 
+## Code :
 ```
 Joystick(  
  mode: JoystickMode.all,
@@ -43,7 +43,7 @@ double \_y \= 0;
 
 &nbsp;
 
-**Code :**   
+## Code :
 ```
 _timer = Timer.periodic(const Duration(milliseconds: 100), (timer) { 
  if (_x != 0 || _y != 0) {
@@ -57,7 +57,7 @@ _timer = Timer.periodic(const Duration(milliseconds: 100), (timer) {
 
 &nbsp;
 
-**Code:**
+## Code:
 ```
 Future<void> navigateRig(double x, double y) async {
  if (_client == null) return;

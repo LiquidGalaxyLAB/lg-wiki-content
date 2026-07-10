@@ -1,9 +1,9 @@
 ---
-title: NAT Network\:
+title: "NAT Network\:"
 contributor: Prithvi Dutta
 date: 2024-06-05T15:21:16.101+00:00
 ---
-
+## Overview
 When we contributors are to use the LG rig, we most probably are using virtualisation. The master connects to the slaves using the nat network.  
   
 Network Address Translation (NAT) is the simplest way of accessing an external network from a virtual machine. Usually, it does not require configuration on the host network and guest system. For this reason, it is the default networking mode in Oracle VM VirtualBox.  

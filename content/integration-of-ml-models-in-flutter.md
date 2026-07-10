@@ -10,7 +10,7 @@ TensorFlowLite \[TFLite\] is a highly intuitive framework that allows easy integ
   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Training an ML model:**
+## Training an ML model:
 -------------------------
 
 TensorFlow Lite is an extremely useful resource for ML model integration in Flutter. It provides an extensive array of pre-trained models ranging from object detection to image classification.  
@@ -20,7 +20,7 @@ We can also choose a custom model for advanced functions like Voice recognition,
 Another handy resource is [Teachable Machines with Google](https://teachablemachine.withgoogle.com/train). This website allows even those with limited knowledge of AI/ML to create their own custom ML models.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Using Teachable Machines with Google:**
+## Using Teachable Machines with Google:
 -----------------------------------------
 
 [Teachable Machines with Google](https://teachablemachine.withgoogle.com/train) is extremely useful for developers wanting to create and use an ML model quickly without any hassle. It offers options for Image Recognition models, Audio models, and Posture detection models. Let us see the process of creating an Image recognition model:  
@@ -68,7 +68,7 @@ After the model is done training, we can preview its results in the window itsel
   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**ML Model Deployment**
+## ML Model Deployment
 -----------------------
 
   
@@ -111,7 +111,7 @@ This prediction gives us the output of the model based on the labels.txt file.
   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**ML Model Deployment using Interpreters**
+## ML Model Deployment using Interpreters
 ------------------------------------------
 
 Certain Custom models might not include a label.txt file but rather return a characteristic array for the image. For this, we must obtain the output using interpreters and then use some post-processing to obtain the output.  
@@ -167,12 +167,12 @@ Future<List<Map>> predictionList() async {
 ```
 
   
-**Post-Processing the data:**  
+## Post-Processing the data:
 We can match the 1st array with all the arrays present in our JSON file(containing classes and respective characteristic arrays) and apply a KNN model to predict the name of the class to which the image resembles the most.  
   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Conclusion**
+## Conclusion
 --------------
 
 This document outlines a general simple deployment of ML models. For more information and examples, visit the official pub.dev documentation at: [flutter\_tflite install | Flutter package (pub.dev)](https://pub.dev/packages/flutter_tflite/install) and [tflite\_flutter | Flutter package (pub.dev)](https://pub.dev/packages/tflite_flutter).

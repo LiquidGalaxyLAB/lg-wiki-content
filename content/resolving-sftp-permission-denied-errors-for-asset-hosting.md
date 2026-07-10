@@ -23,7 +23,7 @@ ls -ld /var/www/html
 If the output shows `drwxr-xr-x root root`, it confirms that only the root user can modify the contents
 
 **Step B:** Applying the `chown` Fix \
-**Try:**
+## Try:
 ```bash
 sudo chown -R lg:lg /var/www/html
 ```

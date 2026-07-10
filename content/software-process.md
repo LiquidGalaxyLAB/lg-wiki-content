@@ -76,26 +76,26 @@ _2 - Requirements specification_
 _3 - Requirements validation_  
 → Checking the validity of the requirements.  
   
-**Software design and implementation:**  
+## Software design and implementation:
 1 - It’s the process of converting the system specification into an executable system.  
 2 - Software design is to design of a software structure that realizes the specifications.  
 3 - Implementation: Translate this structure into an executable program.  
 4 - The activities of design and implementation are closely related and may be inter-leaved.  
   
-**Design activities**  
+## Design activities
 1 - Architectural design: where you identify the overall structure of the system, the principal components (modules), their relationships, and how they are distributed.  
 2 - Database design: where you design the system data structure and how they are to be represented in the database.  
 3 - Interface design: where you define the interfaces between the components.  
 4 - Component selection and design: where you search for reusable components to speed up the implementation process. If unavailable, you design how it will operate.  
   
 ![Design activities](https://lh7-us.googleusercontent.com/docsz/AD_4nXcq2lqcTuKjqk-100zR1ivGY6njaCVnPvh2eZeU-tMmYhSrFl39Wp3DCaQrwo0425C9o0GVuUrnekjmjlJ1akZLKkuhlDBP0dEjJfnu3N9c8KBe1WHI8EZMv31TA4-qKRstIBTJw_F-4AyMG4LNoR4nKssh?key=eXYxpY5rbSPIPtG3SWVZIQ "Design activities")  
-**System implementation**  
+## System implementation
 1 - The software is implemented either by developing a program or by configuring an application system.  
 2 - Design and implementation are interleaved activities for most types of software systems.  
 3 - Programming is an individual activity with no standard process.  
 4 - Debugging is the activity of finding program faults and correcting these faults.  
   
-**Software validation**  
+## Software validation
 _1 - Verification and validation (V & V) is intended to show that a system conforms to its specification and meets the requirements of the system customer._  
 → Verification is to make sure that my system meets the expected output "specifications" created in the first phase.  
 → Validation is to make sure that my system meets the customer's requirements because the specifications “expected output” may differ from the customer's requirements due to misunderstanding.  
@@ -103,7 +103,7 @@ _2 - Involves checking and reviewing processes and system testing._
 _3 - System testing involves executing the system with test cases that are derived from specifications of the real data to be processed by the system._  
   
 ![Software validation](https://lh7-us.googleusercontent.com/docsz/AD_4nXciro76xUBMpvttG1i3aCoeZ9GUDjguwHlV3dKMzvQMGuB3mRhMia58nCWqCnncNUj7XK18UaolofYKy-6vK9iFcguAACbsWPeBoshs3y3VH7E4qQKnKyCs3Qi3qaz6GZPVeRvEkxvvADagmvzx2hA_g5DG?key=eXYxpY5rbSPIPtG3SWVZIQ "Software validation")  
-**Testing stages**  
+## Testing stages
 _1 - Component testing_  
 a - Individual components are tested independently.  
 b - Components may be functions or objects or coherent groupings of these entities.  
@@ -113,7 +113,7 @@ _3 - Customer testing_
 a - Testing with the customer data to check that the system meets the customer’s needs.  
   
 ![Testing stages](https://lh7-us.googleusercontent.com/docsz/AD_4nXddj-znwDhdZEMyUYpXaVBE6PttdE5Ywf8ejin4-sFgOr9HmdVU92PHT3g2nb1_cXcgRBRVfm9_2pfato6c13dxPTLxqJZa6myhSL0H2PTyE9HZQAXK0gQxZGWq_9HUEHPoU0eYv507Mliv_ZwD3Bqp6UVq?key=eXYxpY5rbSPIPtG3SWVZIQ "Testing stages")  
-**Software evolution**  
+## Software evolution
 → Software is inherently flexible and can change.  
 → As requirements change through changing business circumstances, the software that supports the business must also evolve and change.  
 → Although there has been a demarcation between development and evolution (maintenance) this is increasingly irrelevant as fewer and fewer systems are completely new.  
@@ -123,7 +123,7 @@ a - Testing with the customer data to check that the system meets the customer�
 * * *
 
   
-**References**  
+## References
 1 - Software Engineering 10th edition by Ian Sommerville  
 a - Chapter 2: Software Process  
 b - Chapter 3: Agile Software Development

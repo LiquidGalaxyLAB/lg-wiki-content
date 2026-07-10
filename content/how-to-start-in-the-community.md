@@ -3,7 +3,7 @@ title: How to start in the community?
 contributor: Youssef Khalid
 date: 2024-06-07T08:44:30.864+00:00
 ---
-
+## Overview
 \
 The first and most important step is to join the discord of the community where you will find other contributors and mentors and introduce yourself in the community-chat channel, writing your name, country, university and the tech stack that you are working with.\
 \

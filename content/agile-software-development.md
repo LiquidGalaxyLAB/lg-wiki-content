@@ -45,7 +45,7 @@ _**Incremental development**_
 → That feature is then implemented and delivered.  
 4 - Users or surrogate users can try it out and provide feedback to the development team. You then go on to define and implement the next feature of the system.  
   
-**Incremental development activities**  
+## Incremental development activities
 _1 - Choose features to be included in an increment_  
 → Using the list of features in the planned product, select those features that can be implemented in the next product increment.  
 _2 - Refine feature descriptions_  
@@ -84,34 +84,34 @@ _**Extreme programming**_
 2 - Extreme programming focused on 12 new development techniques that were geared to rapid, incremental software development, change, and delivery.  
 3 - Some of these techniques are now widely used; others have been less popular.  
   
-**Extreme programming practices**  
+## Extreme programming practices
   
 ![Extreme programming practices](https://lh7-us.googleusercontent.com/docsz/AD_4nXcIgQMcaEJTGRBAy8f6nya361xsDy30Ux3YlGfwObXxBk7BuwvaN2Jx6K8cO5x_YBptgc3GyGp337cj453hlv12ArrbrgJoLpwXvcl35pg5QKpwWYz9EazFFV3GhRDrEvSzlz5Lqz-ZeeoqJH2sB6nl07ra?key=eXYxpY5rbSPIPtG3SWVZIQ "Extreme programming practices ")  
 
 * * *
 
   
-**Scrum**  
+## Scrum
 Software company managers need information that will help them understand how much it costs to develop a software product, how long it will take, and when the product can be brought to market.  
 Plan-driven development provides this information through long-term development plans that identify deliverables - items the team will deliver and when these will be delivered.  
 Plans always change so anything apart from short-term plans is unreliable.  
 Scrum is an agile method that provides a framework for agile project organization and planning. It does not mandate any specific technical practices.  
   
-**Scrum terminology**  
+## Scrum terminology
   
 ![Scrum terminology](https://lh7-us.googleusercontent.com/docsz/AD_4nXerKGmCBHFRRAH1VoDdQsb0T7waaEzJ7oq8OcZOutXKJlkkvHEhEN0fOpUirdEByhbpqbtvjG3k6GNDW-XOgkhypb1pEiXY4vT8vv8aFCtK64GSsmOw2fBd5NKmO9EnbkqMCdx5N3A2tjt2XQtHYcm-ZTI?key=eXYxpY5rbSPIPtG3SWVZIQ "Scrum terminology")  
-**Key roles in Scrum**  
+## Key roles in Scrum
 **1 - The Product Owner** is responsible for ensuring that the development team is always focused on the product they are building rather than diverted into technically interesting but less relevant work.  
 → In product development, the product manager should normally take on the Product Owner role.  
 **2 - The ScrumMaster** is a Scrum expert whose job is to guide the team in the effective use of the Scrum method. The developers of Scrum emphasize that the ScrumMaster is not a conventional project manager but is a coach for the team. They have authority within the team on how Scrum is used.  
 → In many companies that use Scrum, the ScrumMaster also has some project management responsibilities.  
   
-**Scrum and sprints**  
+## Scrum and sprints
 1 - In Scrum, software is developed in sprints, which are fixed-length periods (2 - 4 weeks) in which software features are developed and delivered.  
 2 - During a sprint, the team has daily meetings (Scrums) to review progress and to update the list of incomplete work items.  
 3 - Sprints should produce a ‘shippable product increment’. This means that the developed software should be complete and ready to deploy.  
   
-**Scrum cycles**  
+## Scrum cycles
   
 ![Scrum cycles](https://lh7-us.googleusercontent.com/docsz/AD_4nXfirw7EdUa72QPRy8k3dtdhTShn-Z0P2ubYp2fXxhTdXezhHArQof5CCPIRA_Z1ZoYBP6lAgJDlqoCqLD3datQl7BzM7zT4i8AU-BvquZEB0MoX99h-vUSALjc8u06vocBrXfEkvusz0bsyLOe_sS0pkh9I?key=eXYxpY5rbSPIPtG3SWVZIQ "Scrum cycles")  
 1 - The input to the process is the product backlog. Each process iteration produces a product increment that could be delivered to customers.  
@@ -131,7 +131,7 @@ Scrum is an agile method that provides a framework for agile project organizatio
 _**Agile activities**_  
 Scrum does not suggest the technical agile activities that should be used. However, I think two practices should always be used in a sprint.  
 **1 - Test automation**\\ → As far as possible, product testing should be automated. You should develop a suite of executable tests that can be run at any time.  
-**2 - Continuous integration**  
+## 2 - Continuous integration
 → Whenever anyone makes changes to the software components they are developing, these components should be immediately integrated with other components to create a system. This system should then be tested to check for unanticipated component interaction problems.  
   
 
@@ -140,26 +140,26 @@ Scrum does not suggest the technical agile activities that should be used. Howev
   
 _**Code completeness checklist in Agile**_  
   
-**Reviewed**  
+## Reviewed
 The code has been reviewed by another team member who has checked that it meets agreed coding standards, is understandable, includes appropriate comments, and has been refactored if necessary.  
   
-**Unit tested**  
+## Unit tested
 All unit tests have been run automatically and all tests have executed successfully.  
   
-**Integrated**  
+## Integrated
 The code has been integrated with the project codebase and no integration errors have been reported.  
   
-**Integration tested**  
+## Integration tested
 All integration tests have been run automatically and all tests have executed successfully.  
   
-**Accepted**  
+## Accepted
 Acceptance tests have been run if appropriate and the product owner or the development team have confirmed that the product backlog item has been completed.  
   
 
 * * *
 
   
-**References**  
+## References
 1 - Software Engineering 10th edition by Ian Sommerville  
 → Chapter 3: Agile Software Development  
   

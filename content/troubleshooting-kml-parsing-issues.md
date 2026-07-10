@@ -4,7 +4,7 @@ contributor: Ryan_Kim
 date: 2024-06-05T08:37:30.550+00:00
 ---
 
-**Troubleshooting KML Parsing Issues**  
+## Troubleshooting KML Parsing Issues
   
 When creating and parsing KML files to LG rigs from Flutter applications via SSH, an anomaly can occur where the files do not execute as expected without any error messages in the VM or terminal of our coding environment.  
   

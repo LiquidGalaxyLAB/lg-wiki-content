@@ -3,8 +3,7 @@ title: What is Keyhole Markup Language(KML)?
 contributor: Shaunak Nagrecha
 date: 2024-06-07T15:28:54.251+00:00
 ---
-
-  
+## Overview
 Keyhole Markup Language (KML) is an XML-based file format used to display geographic data in an Earth browser such as Google Earth. It is an international standard maintained by the Open Geo spatial Consortium, Inc. (OGC). KML files can pinpoint locations, add image overlays, and expose rich data in new ways.  
   
 Whether you want to display a logo on top of Liquid Galaxy’s Google Earth or you want to visualize some data on the Liquid Galaxy machines, KML is the way to do it. All Liquid Galaxy Applications send and upload KML to the master machine which it will then render on top of the Google Earth and visualize the data, which has many applications. One of the example is given in the photo below, the logo of the app displayed on top of the Liquid Galaxy Machines is nothing but a Screen Overlay Image component of KML. You can check out KML Documentation for more details on how it works.  

@@ -7,7 +7,7 @@ date: 2024-06-13T14:05:02.985+00:00
   
 **Problem:** Your app is working fine when you’re trying to connect to LG with your host machine’s emulator but fails to connect when you’re testing it on your mobile.  
   
-**What is port forwarding?**  
+## What is port forwarding?
 Port forwarding is a method to securely transmit data over an encrypted ssh connection between server and client over a private network. It helps users to connect to client that firewall would prevent otherwise.  
   
 ![server and client](https://lh7-us.googleusercontent.com/docsz/AD_4nXfcHyGWEGpz9BVX7hV7vnxXOgHCpQAmOhCmcpGk_AJMcODWQdMGjCk50HaaU2bQvcSNu3pwQS9z5CeTXMbJi36_2FLK-EZx_KSAa8gM6MRkEUmrx0I7_1KQcfxsuHwydGRb1Whl5hohsIPU0XL32RWSMUKxl60aEG7MtznrSP2f_gy0LNG38Q?key=KSe51dGJJaMYpZ4SWElSIg "server and client")  

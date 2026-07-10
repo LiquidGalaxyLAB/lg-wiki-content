@@ -9,13 +9,13 @@ _**Definition:**_
   
 Setting up Liquid Galaxy within a virtual machine (VM) involves creating a virtualized instance of the system on a host machine. This approach offers flexibility, scalability, and ease of deployment, making it an attractive option for testing, development, and educational purposes. The setup process involves configuring the virtual machine environment, installing the necessary software components, and configuring network settings to enable communication with other nodes in the Liquid Galaxy cluster.  
   
-**Components and Functions:**  
+## Components and Functions:
   
 
 * * *
 
   
-**Virtualization Platform Selection:**  
+## Virtualization Platform Selection:
   
 Choose an appropriate virtualization platform such as VMware, VirtualBox, or KVM/QEMU to host the Liquid Galaxy VM. Consider factors such as compatibility, performance, and feature set when selecting the platform. The virtualization platform provides the necessary infrastructure for creating and managing virtual machines, allocating resources, and configuring network connectivity.  
   
@@ -23,7 +23,7 @@ Choose an appropriate virtualization platform such as VMware, VirtualBox, or KVM
 * * *
 
   
-**Operating System Installation:**  
+## Operating System Installation:
   
 Select a suitable operating system for hosting the Liquid Galaxy VM. Ubuntu Linux is commonly used due to its compatibility with the required software components and ease of configuration. Install the chosen operating system within the virtual machine, following the standard installation procedure and configuring system settings such as user accounts, network configuration, and disk partitioning.  
   
@@ -31,7 +31,7 @@ Select a suitable operating system for hosting the Liquid Galaxy VM. Ubuntu Linu
 * * *
 
   
-**Liquid Galaxy Setup:**  
+## Liquid Galaxy Setup:
   
 Download and install Google Earth on the virtual machine, as it serves as the primary interface for interacting with the Liquid Galaxy system.  
   
@@ -41,7 +41,7 @@ Follow the instructions provided by the Liquid Galaxy documentation to set up th
 * * *
 
   
-**Resource Allocation:**  
+## Resource Allocation:
   
 Allocate appropriate resources to the virtual machine based on the expected workload and performance requirements of Liquid Galaxy.  
   
@@ -51,7 +51,7 @@ Specify the number of CPU cores, amount of RAM, disk space, and network bandwidt
 * * *
 
   
-**Virtual Machine Creation:**  
+## Virtual Machine Creation:
   
 Install and configure the chosen virtualization platform on the host machine, ensuring that it meets the system requirements for hosting virtual machines.  
 Create a new virtual machine instance within the virtualization platform, specifying the desired hardware resources (CPU cores, RAM, disk space, etc.) and virtual machine settings (network configuration, storage options, etc.).  
@@ -63,7 +63,7 @@ Follow the prompts provided by the virtualization platform to complete the creat
 * * *
 
   
-**Operating System Installation:**  
+## Operating System Installation:
   
 Boot the virtual machine from the selected installation media (e.g., Ubuntu Linux ISO image) and follow the on-screen instructions to install the operating system.  
 Configure system settings such as language preferences, time zone, keyboard layout, and disk partitioning according to your requirements.  
@@ -73,7 +73,7 @@ Create user accounts and set up passwords for accessing the virtual machine, ens
 * * *
 
   
-**Liquid Galaxy Setup:**  
+## Liquid Galaxy Setup:
   
 Once the operating system installation is complete, proceed to install Google Earth and the required software components for Liquid Galaxy within the virtual machine. Follow the installation instructions provided by the Liquid Galaxy documentation, which typically involve running scripts or commands to install Docker, Kubernetes, and other dependencies. Configure network settings within the virtual machine to ensure connectivity with other nodes in the Liquid Galaxy cluster, including assigning static IP addresses, configuring DNS resolution, and opening firewall ports as needed.  
   
@@ -81,7 +81,7 @@ Once the operating system installation is complete, proceed to install Google Ea
 * * *
 
   
-**Testing and Validation:**  
+## Testing and Validation:
   
 After completing the setup process, verify the functionality of Liquid Galaxy within the virtual machine environment by launching Google Earth and testing basic navigation and interaction features.  
 Perform additional tests to evaluate the performance, reliability, and scalability of the system under different workloads and scenarios.  

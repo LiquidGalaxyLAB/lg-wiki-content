@@ -3,8 +3,7 @@ title: Implementing Neumorphism in Flutter
 contributor: Shashwat srivastava
 date: 2024-06-07T14:53:46.949+00:00
 ---
-
-  
+## Overview
 _**Introduction:**_  
   
 Neumorphism, a design trend gaining traction in UI/UX, can be effectively achieved using core widgets available in Flutter without the need for additional libraries. In this article, we'll explore how to implement Neumorphism using Flutter's fundamental widgets, primarily leveraging containers and their decoration properties.  

@@ -4,7 +4,7 @@ contributor: Rafel Salgueiro
 date: 2024-06-10T13:13:42.487+00:00
 ---
 
-**Introduction**  
+## Introduction
   
 This documentation contains the step-by-step process for setting up a server environment tailored for AI projects. The setup includes the installation of rocky Linux, Docker, user setup, Docker Compose configuration, networking settings, and testing procedure. This guide ensures a smooth and systematic setup process for hosting AI projects efficiently.  
   
@@ -16,7 +16,7 @@ _**1\. Image Hosting**_
   
 Host Docker images on Docker Hub for accessibility.  
   
-**Steps:**  
+## Steps:
 Build Your Docker Image:  
 Build your Docker image locally using a Dockerfile. Replace front-studentname/image **with your desired repository name on Docker Hub.**  
 $ docker build -t front-studentname/image .  
@@ -46,7 +46,7 @@ _/var/container/project/_
 _/var/container/project/volumes_  
 _/var/container/project/compose_  
   
-**Steps:**  
+## Steps:
 Create the Project Directory:  
 _$ mkdir -p /var/container/project/{volumes,compose}_  
 Navigate to the Project Directory:  

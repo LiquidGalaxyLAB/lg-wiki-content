@@ -4,7 +4,7 @@ contributor: Rafel Salgueiro
 date: 2024-06-10T10:18:46.769+00:00
 ---
 
-**Introduction**  
+## Introduction
   
 This documentation contains the step-by-step process for setting up a server environment tailored for AI projects. The setup includes the installation of rocky Linux, Docker, user setup, Docker Compose configuration, networking settings, and testing procedure. This guide ensures a smooth and systematic setup process for hosting AI projects efficiently.  
   
@@ -15,7 +15,7 @@ This documentation contains the step-by-step process for setting up a server env
 _**1\. Rufus USB Preparation**_  
   
 Rufus is used to create a bootable USB drive with rocky Linux.  
-**Steps:**  
+## Steps:
 →Download and install Rufus on a Windows machine from the official website: Install rocky Linux ISO from here.  
 → Insert a USB drive into your computer.  
 → Open Rufus and select the rocky Linux ISO file by clicking on the “Select” button next to “Boot selection.”  
@@ -30,7 +30,7 @@ Rufus is used to create a bootable USB drive with rocky Linux.
 _**2\. Installation**_  
   
 Install rocky Linux on the server machine.  
-**Steps:**  
+## Steps:
 → Boot the server machine from the prepared USB drive. You may need to change the boot order in the BIOS settings to boot from the USB drive first.  
 → Follow the on-screen instructions to install rocky Linux. This typically involves selecting language, keyboard layout, and disk partitioning.  
 → During the installation process, set the hostname to docker-01.local.  
@@ -50,7 +50,7 @@ Install rocky Linux on the server machine.
 * * *
 
   
-**3\. Post-Installation Updates**
+## 3\. Post-Installation Updates
 
 Update system packages and repositories.  
 **Steps:** To update system packages and repositories using dnf (Dandified YUM), you can follow these steps:  
@@ -59,7 +59,7 @@ $ /usr/bin/dnf -y update # Update system packages
 $ /usr/bin/dnf -y groupinstall base # Install the base package group (if needed)  
 $ /usr/bin/dnf clean all # Clean up the package cache  
   
-**This script will do the following:**  
+## This script will do the following:
 → Installs the EPEL repository which provides additional packages beyond what is available in the default repositories.  
 → Updates all installed packages to the latest versions.  
 → Optionally, installs the base package group. This step may or may not be necessary depending on your system's configuration.  

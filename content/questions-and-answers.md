@@ -29,7 +29,7 @@ _**Q. What is Ssh? And how does it connect to lg Rigs?**_
   
 **Reasons:** SSH (Secure Shell) is a cryptographic network protocol used for secure remote access to a computer system. It provides a secure channel over an unsecured network by encrypting the connection between the client and server.  
   
-**Here's how SSH connects to LG rigs:**  
+## Here's how SSH connects to LG rigs:
 1 - SSH Client and Server: SSH operates in a client-server model. The client initiates a connection to the server, which is running SSH software.  
   
 2 - Authentication: When a client (master node) connects to an SSH server (slave nodes), authentication is performed to verify the identity of the client and server. This can be done using passwords, SSH keys, or other authentication methods.  
@@ -47,7 +47,7 @@ In the context of **Liquid Galaxy rigs**, there is a **master node** (often refe
 _**Q. What is providers? And how does it keep track of the states?**_  
 **Ans:** In Riverpod, providers are objects that allow us to declare and manage the state, dependencies, and logic of our application in a declarative manner. Providers can be thought of as containers or factories that hold values, objects, or functions that are used throughout the application.  
   
-**Providers serve several purposes:**  
+## Providers serve several purposes:
   
 1 - State Management: Providers can hold and manage the state of application. This can include simple values, such as booleans or strings, as well as more complex state objects, such as classes or data models.  
   

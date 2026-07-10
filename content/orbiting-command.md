@@ -3,7 +3,7 @@ title: Orbiting command
 contributor: Prithvi Dutta
 date: 2024-06-05T15:05:43.306+00:00
 ---
-
+## Overview
 Have you wondered how the lg rig starts orbiting about a given location? Well, lets get into it step by step.  
   
 _**Understanding the code:**_ Let’s start with the code itself and branch out to different topics as we know. This is the code for the somewhat daunting task:  

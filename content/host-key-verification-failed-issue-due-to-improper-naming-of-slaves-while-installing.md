@@ -3,8 +3,7 @@ title: Host Key Verification Failed Issue due to improper naming of Slaves while
 contributor: Saumya Bhattacharya
 date: 2024-06-07T07:43:56.579+00:00
 ---
-
-  
+## Overview
 The "Host key verification failed" error typically occurs when there is a mismatch between the host key stored on the client machine and the host key presented by the server.  
   
 ![hostkyeissue1](https://lh7-us.googleusercontent.com/docsz/AD_4nXfxchMy95GAkWJzaAouFfmee7Ul1YudZE3KqkgUTVNDxrxQqsSsrtaMkS36BE8PaTIc-radA1tY7SSd4lVCoTMgINocq7UXG42cyrcZEFQOjVPB-WPfIh09dCBo0FfOwwdi01aV303AmRRVJrdyLuydGBiu?key=tUpKevYTxy98FMSNVHBroQ "hostkyeissue1")  

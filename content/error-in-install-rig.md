@@ -13,20 +13,20 @@ After that I asked in the community, then one contributor named Sidharth suggest
   
 He said that u can clone the code and then try install the vm  
   
-**“git clone ttps://github.com/LiquidGalaxyLAB/liquid-galaxy.git”**  
+## “git clone ttps://github.com/LiquidGalaxyLAB/liquid-galaxy.git”
   
 Doing that also packets were not download successfully So ,then i figure out that the firewall was not allowing to access it  
   
 So , then i made the process from beginning and after these command  
   
-**Sudo apt install**  
-**Sudo apt upgrade**  
-**Sudo apt install lsb**  
-**Sudo apt install lsb-core**  
+## Sudo apt install
+## Sudo apt upgrade
+## Sudo apt install lsb
+## Sudo apt install lsb-core
   
 I have run this command to stop the firewall.  
   
-**Sudo ufw disable**  
+## Sudo ufw disable
   
 And make sure that you do not press enter the only once as it said in process terminal.  
   
@@ -38,11 +38,11 @@ And before process to connect app u should try to ping the ipaddress of the host
   
 You can find ip address by this command on host :  
   
-**“Ifconfig”**  
+## “Ifconfig”
   
 And in cmd you can ping:  
   
-**“ping 192.168.43.2”**  
+## “ping 192.168.43.2”
   
 If all 4 packets are received successfully than your task is done  
   
@@ -51,5 +51,5 @@ Take a drink or tea in hand it takes time 🙂 keep patient 😀
 After this all the command was working and the rig was successful installed  
   
   
-**Thank and regard**  
-**From DEV T GADANI 😀**
+## Thank and regard
+## From DEV T GADANI 😀

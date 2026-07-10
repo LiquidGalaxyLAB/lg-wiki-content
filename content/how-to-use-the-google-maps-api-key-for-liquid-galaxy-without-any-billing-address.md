@@ -3,8 +3,7 @@ title: HOW TO USE THE GOOGLE MAPS API KEY FOR LIQUID GALAXY WITHOUT ANY BILLING 
 contributor: Baikuntha B Bihari
 date: 2024-06-11T13:05:23.285+00:00
 ---
-
-  
+## Overview
 _**What is an API Key?**_  
   
 → An application programming interface (API) key is a unique code or password that allows one software application to talk to another. It's a way for developers to control access to their web services or data by providing a unique key to users or other programs.  

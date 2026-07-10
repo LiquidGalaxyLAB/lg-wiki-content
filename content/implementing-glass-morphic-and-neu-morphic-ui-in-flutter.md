@@ -1,5 +1,5 @@
 ---
-title: Implementing Glass-morphic and Neu-morphic UI in Flutter\:
+title: "Implementing Glass-morphic and Neu-morphic UI in Flutter\:"
 contributor: Aritra Biswas
 date: 2024-06-05T13:42:45.631+00:00
 ---
@@ -8,7 +8,7 @@ An intuitive and visually attractive UI/UX experience is crucial in Flutter as i
   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Glass-Morphism**
+## Glass-Morphism
 ------------------
 
   
@@ -69,7 +69,7 @@ The user can experiment with various different gradients here, to achieve an eve
   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Neu-morphism**
+## Neu-morphism
 ----------------
 
 Neu-morphism is another extremely popular design trend which can be achieved without any external packages. This design schema focuses heavily on establishing a depth of view. The crux of Neu-morphic designs is to enhance an extremely simplistic UI and elevate it using depth, light, and shadows.  
@@ -140,7 +140,7 @@ We can also elevate this design further by giving the effect of internal shadows
   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Conclusion**
+## Conclusion
 --------------
 
 These are just some design trend which can simply and easily elevate one’s UI. Flutter provides a wide range of customizability to all of its widgets, giving rise to almost unlimited creativity.

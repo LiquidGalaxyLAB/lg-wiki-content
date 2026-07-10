@@ -19,7 +19,7 @@ The Step-by-Step Verification Workaround
 
 To determine if your KML code is structurally sound, you can bypass the network entirely by manually loading the file into Google Earth Pro on the Master node and, subsequently, the slave nodes.
 
-**Manual Verification Steps:**
+## Manual Verification Steps:
 
 1.  **Open Google Earth Pro:** Launch the application on your master node.
 2.  **Enable Sidebar:** Ensure the left-hand sidebar is visible. If hidden, press `Ctrl+Alt+B` or navigate to **View > Sidebar**.

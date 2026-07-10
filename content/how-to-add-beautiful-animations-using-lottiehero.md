@@ -3,8 +3,7 @@ title: How to add beautiful animations using Lottie/Hero?
 contributor: Saumya Bhattacharya
 date: 2024-06-07T08:27:19.163+00:00
 ---
-
-  
+## Overview
 Let’s first understand what Lottie is.  
 Lottie is a library developed by Airbnb that allows us to render animations and vector graphics in real-time. Lottie enables developers to include complex animations in their applications with minimal performance impact.  
   

@@ -3,8 +3,7 @@ title: Implementing Glassmorphism in Flutter
 contributor: Shashwat srivastava
 date: 2024-06-07T15:06:38.905+00:00
 ---
-
-  
+## Overview
 _**Introduction:**_  
   
 Glassmorphism, a popular design trend, can be implemented in Flutter using core widgets without relying on external libraries. This approach involves applying filters and backdrop filters to colored containers with varying opacities to achieve a frosted glass effect.  

@@ -3,8 +3,7 @@ title: Kml file not display
 contributor: Dev T Gadani
 date: 2024-06-10T08:24:06.504+00:00
 ---
-
-  
+## Overview
 Hello , I was having a problem in that the kml file was not displaying after the code was correctly formatted in the file on my machine. So , I have try to debugging on master machine that if the file is been upload or not . The error that i was having was :  
   
 ![corrretly](https://lh7-us.googleusercontent.com/docsz/AD_4nXfZZFBvOZS7qTacCLk54DwCzxlWLqNcGtM9w-Wj_2GwKcQXU3LJ1Zz8cV-1QjhDEcfuOTWkLi-XDpn2AU0ZcHIWVOTazjGYtHiHsi5vCwhbKoVYBKJeKiM44c_256tIXtzTOC0_T2FAhwqOQgzFyk8AeVLR?key=kHYbKBaty9njtwVslU_mPQ "corretly")  

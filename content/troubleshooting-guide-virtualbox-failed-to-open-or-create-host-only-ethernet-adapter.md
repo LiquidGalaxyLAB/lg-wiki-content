@@ -1,9 +1,9 @@
 ---
-title: TROUBLESHOOTING GUIDE\: VirtualBox failed to open or create Host Only Ethernet Adapter
+title: "TROUBLESHOOTING GUIDE\: VirtualBox failed to open or create Host Only Ethernet Adapter"
 contributor: Debanjan Naskar
 date: 2025-03-17T16:40:38.940+00:00
 ---
-
+## Overview
 After sudden updates from Windows you can face such a problem when you try to connect with a Host Only Adapter necessary for the proper functioning of your Liquid Galaxy System and connect it to other devices via SSH. In such a scenario even reinstalling VirtualBox does not tend to work. ![Image](images/67d85085c11648c97bba.jpg) If something similar happens in your system you can make your Host Only Network again function correctly using these steps:
 
 *   Close Virtual Box

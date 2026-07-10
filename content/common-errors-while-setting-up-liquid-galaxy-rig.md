@@ -3,8 +3,7 @@ title: Common Errors While Setting Up Liquid Galaxy Rig
 contributor: Shaunak Nagrecha
 date: 2024-06-07T15:44:42.700+00:00
 ---
-
-  
+## Overview
 ![Screenshot 2024-02-06 131827](https://lh7-us.googleusercontent.com/docsz/AD_4nXdyA5JpS7vl3nIJ6TOmqCqc9_loQIwCSpqF69fSGBISerfIEGfI__hnqzhVkfvdPVo0AgAU5wSsODG0NP87lGVgJYBPZBxnQt1rMMz3aGhZyHmony-8EEU_s5iqVvAkGIFeNhyNe_RaDjdqHnH75mUcTrc?key=O65rb5sVvfS3xfhPyj0BQg "Screenshot 2024-02-06 131827")  
 Have you faced this error, where your master machine cannot connect with your slave machines. The most common reason that this happens is that you have not configured your network settings properly. More often than not, it is because the network adapter of your VM is not set to “NAT Network”. For this, you have to create a NAT Network inside Virtual Box First and then select the same NAT Network for all of the 3 VMs. The below images demonstrate just that.  
   

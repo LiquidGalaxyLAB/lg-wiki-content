@@ -12,7 +12,7 @@ date: 2026-02-24T17:50:16.551+00:00
 
 &nbsp;
 
-**Code:** 
+## Code:
 ```
 <gx:Tour> 
   <name>OrbitTour</name>
@@ -31,7 +31,7 @@ date: 2026-02-24T17:50:16.551+00:00
 
 &nbsp;
 
-**Code:**
+## Code:
 ```
 String buildOrbitTour(List<Map<String, double>> points) {
  StringBuffer kml = StringBuffer();
@@ -74,7 +74,7 @@ String buildOrbitTour(List<Map<String, double>> points) {
 
 &nbsp;
 
-**Command to send the trigger:**
+## Command to send the trigger:
 ```
 echo "playtour=GeneratedTour" \> /tmp/query.txt.
 ```

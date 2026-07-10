@@ -1,5 +1,5 @@
 ---
-title: Topic 3\: Google Maps Integration in the Flutter app
+title: "Topic 3\: Google Maps Integration in the Flutter app"
 contributor: Manas Dalvi
 date: 2024-06-11T16:29:27.289+00:00
 ---
@@ -49,7 +49,7 @@ Now add the API key in the app. Edit the AndroidManifest.xml file in android/app
 \
 Now get the map on screen by adding the following widget:\
 \
-**Code:**
+## Code:
 ```terminal
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
@@ -100,7 +100,7 @@ To connect the map with the Liquid Galaxy i.e., when there is any movement done 
 \
 Whenever the map on the application is moved the rig will also move. This can be achieved by making the two functions _onCameraMove and _onCameraIdle. The _onCameraMove function will just change the values of the latitude, longitude, tilt, zoom,  and bearing.\
 \
-**Code for _onCameraMove:**
+## Code for _onCameraMove:
 ```terminal
 void _onCameraMove(CameraPosition position) {
     bearingvalue = position.bearing; 
@@ -113,7 +113,7 @@ void _onCameraMove(CameraPosition position) {
 \
 Now moving on to the second function _onCameraIdle, this function sends data to the liquid galaxy rig. This is changed in the /tmp/query.txt file.\
 \
-**Code for _onCameraIdle:**
+## Code for _onCameraIdle:
 ```terminal
 void _onCameraIdle() {
     LookAt flyto = LookAt(longvalue, latvalue , zoomvalue.toString(),
@@ -135,7 +135,7 @@ The output of generateLinearString will be like follows:
 \
 Now that the functions are ready these can be used to int the GoogleMap widget to integrate the functionality in the existing code.\
 \
-**Code for Google Map Widget:**
+## Code for Google Map Widget:
 ```terminal
 GoogleMap(
     onMapCreated: (controller) {
