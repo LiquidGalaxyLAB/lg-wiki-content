@@ -1,0 +1,884 @@
+{
+  "pages": [
+    {
+      "id": "questions-and-answers-from-the-discord",
+      "title": "Questions and Answers from the Discord:",
+      "file": "questions-and-answers-from-the-discord.md"
+    },
+    {
+      "id": "chromium-on-liquid-galaxy",
+      "title": "Chromium on Liquid Galaxy",
+      "file": "chromium-on-liquid-galaxy.md"
+    },
+    {
+      "id": "research-on-displaying-orbits-on-google-earth",
+      "title": "Research on Displaying Orbits on Google Earth",
+      "file": "research-on-displaying-orbits-on-google-earth.md"
+    },
+    {
+      "id": "liquid-galaxy-virtual-setup-problems-solutions",
+      "title": "Liquid Galaxy Virtual Setup Problems & solutions",
+      "file": "liquid-galaxy-virtual-setup-problems-solutions.md"
+    },
+    {
+      "id": "troubleshooting-kml-parsing-issues",
+      "title": "Troubleshooting KML Parsing Issues",
+      "file": "troubleshooting-kml-parsing-issues.md"
+    },
+    {
+      "id": "targetting-specific-slave-rigs",
+      "title": "Targetting Specific Slave Rigs",
+      "file": "targetting-specific-slave-rigs.md"
+    },
+    {
+      "id": "running-lg-commands-via-ssh",
+      "title": "Running LG Commands Via SSH",
+      "file": "running-lg-commands-via-ssh.md"
+    },
+    {
+      "id": "maintaining-an-ssh-connection-on-flutter-applications",
+      "title": "Maintaining an SSH Connection on Flutter Applications",
+      "file": "maintaining-an-ssh-connection-on-flutter-applications.md"
+    },
+    {
+      "id": "logging-ssh-command-log-outputs",
+      "title": "Logging SSH Command Log Outputs",
+      "file": "logging-ssh-command-log-outputs.md"
+    },
+    {
+      "id": "sending-directional-and-rotational-commands-to-liquid-galaxy",
+      "title": "Sending Directional and Rotational Commands to Liquid Galaxy.",
+      "file": "sending-directional-and-rotational-commands-to-liquid-galaxy.md"
+    },
+    {
+      "id": "connecting-liquid-galaxy-rigs-to-physical-devices-via-port-forwarding",
+      "title": "Connecting Liquid Galaxy Rigs to Physical Devices via Port Forwarding.",
+      "file": "connecting-liquid-galaxy-rigs-to-physical-devices-via-port-forwarding.md"
+    },
+    {
+      "id": "using-getx-for-state-management-in-flutter",
+      "title": "Using GetX for state management in Flutter:",
+      "file": "using-getx-for-state-management-in-flutter.md"
+    },
+    {
+      "id": "implementing-glass-morphic-and-neu-morphic-ui-in-flutter",
+      "title": "Implementing Glass-morphic and Neu-morphic UI in Flutter:",
+      "file": "implementing-glass-morphic-and-neu-morphic-ui-in-flutter.md"
+    },
+    {
+      "id": "integration-of-ml-models-in-flutter",
+      "title": "Integration of ML models in Flutter",
+      "file": "integration-of-ml-models-in-flutter.md"
+    },
+    {
+      "id": "searching-for-a-place-using-the-execute-method",
+      "title": "Searching for a place using the execute method",
+      "file": "searching-for-a-place-using-the-execute-method.md"
+    },
+    {
+      "id": "orbiting-command",
+      "title": "Orbiting command",
+      "file": "orbiting-command.md"
+    },
+    {
+      "id": "nat-network",
+      "title": "NAT Network:",
+      "file": "nat-network.md"
+    },
+    {
+      "id": "how-to-open-and-close-chromium-sessions-on-lg",
+      "title": "How to open and close Chromium sessions on LG",
+      "file": "how-to-open-and-close-chromium-sessions-on-lg.md"
+    },
+    {
+      "id": "how-to-install-npm-applications-on-lg",
+      "title": "How to install npm applications on LG",
+      "file": "how-to-install-npm-applications-on-lg.md"
+    },
+    {
+      "id": "creating-and-representing-large-orbits-in-the-liquid-galaxy",
+      "title": "Creating and representing large orbits in the Liquid Galaxy",
+      "file": "creating-and-representing-large-orbits-in-the-liquid-galaxy.md"
+    },
+    {
+      "id": "liquid-galaxy-virtual-setup-problems-solutions-2",
+      "title": "Liquid Galaxy Virtual Setup Problems & solutions",
+      "file": "liquid-galaxy-virtual-setup-problems-solutions-2.md"
+    },
+    {
+      "id": "brief-on-kmls-with-liquid-galaxy",
+      "title": "Brief on KMLs With Liquid Galaxy",
+      "file": "brief-on-kmls-with-liquid-galaxy.md"
+    },
+    {
+      "id": "how-to-orbit-around-a-particular-coordinate",
+      "title": "How to Orbit around a particular coordinate?",
+      "file": "how-to-orbit-around-a-particular-coordinate.md"
+    },
+    {
+      "id": "host-key-verification-failed-issue-due-to-improper-naming-of-slaves-while-installing",
+      "title": "Host Key Verification Failed Issue due to improper naming of Slaves while installing.",
+      "file": "host-key-verification-failed-issue-due-to-improper-naming-of-slaves-while-installing.md"
+    },
+    {
+      "id": "how-to-pin-a-place-with-a-kml-balloon",
+      "title": "How to pin a place with a KML Balloon?",
+      "file": "how-to-pin-a-place-with-a-kml-balloon.md"
+    },
+    {
+      "id": "difference-between-lg-relaunch-and-lg-reboot",
+      "title": "Difference between lg-relaunch and lg-reboot?",
+      "file": "difference-between-lg-relaunch-and-lg-reboot.md"
+    },
+    {
+      "id": "what-is-a-widget-tree",
+      "title": "What is a Widget Tree?",
+      "file": "what-is-a-widget-tree.md"
+    },
+    {
+      "id": "how-to-add-beautiful-animations-using-lottiehero",
+      "title": "How to add beautiful animations using Lottie/Hero?",
+      "file": "how-to-add-beautiful-animations-using-lottiehero.md"
+    },
+    {
+      "id": "how-to-start-in-the-community",
+      "title": "How to start in the community?",
+      "file": "how-to-start-in-the-community.md"
+    },
+    {
+      "id": "introduction-to-networks",
+      "title": "Introduction To Networks:",
+      "file": "introduction-to-networks.md"
+    },
+    {
+      "id": "linux-commands-introduction",
+      "title": "Linux Commands Introduction",
+      "file": "linux-commands-introduction.md"
+    },
+    {
+      "id": "questions-and-answers-from-the-discord-2",
+      "title": "Questions and Answers from the discord:",
+      "file": "questions-and-answers-from-the-discord-2.md"
+    },
+    {
+      "id": "flying-to-different-locations-on-google-earth-using-flutter-application",
+      "title": "flying to different locations on Google Earth using Flutter application.",
+      "file": "flying-to-different-locations-on-google-earth-using-flutter-application.md"
+    },
+    {
+      "id": "the-basic-lg-tasks-like-reboot-lg-shutdown-lg-relaunch-lg-and-clean-kml-using-flutter-application",
+      "title": "The basic LG tasks like Reboot LG, Shutdown LG, Relaunch LG and Clean KML using Flutter application.",
+      "file": "the-basic-lg-tasks-like-reboot-lg-shutdown-lg-relaunch-lg-and-clean-kml-using-flutter-application.md"
+    },
+    {
+      "id": "kml-keyhole-markup-language-and-its-use-in-the-lg-tasks",
+      "title": "KML (Keyhole Markup Language) and its use in the LG Tasks.",
+      "file": "kml-keyhole-markup-language-and-its-use-in-the-lg-tasks.md"
+    },
+    {
+      "id": "integrating-ai-models-into-flutter-applications",
+      "title": "Integrating AI Models into Flutter Applications",
+      "file": "integrating-ai-models-into-flutter-applications.md"
+    },
+    {
+      "id": "implementing-neumorphism-in-flutter",
+      "title": "Implementing Neumorphism in Flutter",
+      "file": "implementing-neumorphism-in-flutter.md"
+    },
+    {
+      "id": "implementing-glassmorphism-in-flutter",
+      "title": "Implementing Glassmorphism in Flutter",
+      "file": "implementing-glassmorphism-in-flutter.md"
+    },
+    {
+      "id": "how-do-liquid-galaxy-screens-talk-to-each-other",
+      "title": "How Do Liquid Galaxy Screens Talk To Each Other?",
+      "file": "how-do-liquid-galaxy-screens-talk-to-each-other.md"
+    },
+    {
+      "id": "what-is-keyhole-markup-languagekml",
+      "title": "What is Keyhole Markup Language(KML)?",
+      "file": "what-is-keyhole-markup-languagekml.md"
+    },
+    {
+      "id": "common-errors-while-setting-up-liquid-galaxy-rig",
+      "title": "Common Errors While Setting Up Liquid Galaxy Rig",
+      "file": "common-errors-while-setting-up-liquid-galaxy-rig.md"
+    },
+    {
+      "id": "how-to-contribute-to-lg-wiki",
+      "title": "How to contribute to LG-Wiki",
+      "file": "how-to-contribute-to-lg-wiki.md"
+    },
+    {
+      "id": "kml-file-not-display",
+      "title": "Kml file not display",
+      "file": "kml-file-not-display.md"
+    },
+    {
+      "id": "error-in-install-rig",
+      "title": "Error in install rig",
+      "file": "error-in-install-rig.md"
+    },
+    {
+      "id": "server-installation",
+      "title": "Server Installation",
+      "file": "server-installation.md"
+    },
+    {
+      "id": "docker-installation",
+      "title": "Docker Installation",
+      "file": "docker-installation.md"
+    },
+    {
+      "id": "docker-installation-2",
+      "title": "Docker Installation",
+      "file": "docker-installation-2.md"
+    },
+    {
+      "id": "docker-compose-setup",
+      "title": "Docker Compose Setup",
+      "file": "docker-compose-setup.md"
+    },
+    {
+      "id": "test-setup",
+      "title": "Test Setup",
+      "file": "test-setup.md"
+    },
+    {
+      "id": "migration-from-pubdev-ssh-to-dartssh2-with-version-3x-of-flutter",
+      "title": "Migration from pub.dev ssh to dartssh2 with version 3.x of flutter",
+      "file": "migration-from-pubdev-ssh-to-dartssh2-with-version-3x-of-flutter.md"
+    },
+    {
+      "id": "key-points-for-installing-the-lg-that-generate-the-most-common-errors",
+      "title": "Key points for installing the LG that generate the most common errors.",
+      "file": "key-points-for-installing-the-lg-that-generate-the-most-common-errors.md"
+    },
+    {
+      "id": "sending-images-about-a-real-lg-machine",
+      "title": "Sending images about a real LG machine.",
+      "file": "sending-images-about-a-real-lg-machine.md"
+    },
+    {
+      "id": "liquid-galaxy-non-google-earthchromium-based-apps-setup-guide",
+      "title": "Liquid Galaxy Non - Google Earth/Chromium Based Apps Setup Guide",
+      "file": "liquid-galaxy-non-google-earthchromium-based-apps-setup-guide.md"
+    },
+    {
+      "id": "liquid-galaxy-app-developer-quick-start-guide",
+      "title": "Liquid Galaxy App Developer Quick Start Guide",
+      "file": "liquid-galaxy-app-developer-quick-start-guide.md"
+    },
+    {
+      "id": "liquid-galaxy-app-developer-quick-start-guide-2",
+      "title": "Liquid Galaxy App Developer Quick Start Guide",
+      "file": "liquid-galaxy-app-developer-quick-start-guide-2.md"
+    },
+    {
+      "id": "how-to-use-the-google-maps-api-key-for-liquid-galaxy-without-any-billing-address",
+      "title": "HOW TO USE THE GOOGLE MAPS API KEY FOR LIQUID GALAXY WITHOUT ANY BILLING ADDRESS",
+      "file": "how-to-use-the-google-maps-api-key-for-liquid-galaxy-without-any-billing-address.md"
+    },
+    {
+      "id": "the-credentialsdetails-required-to-get-connected-to-lg-rigs-either-through-an-lg-app-or-by-making-an-app-for-lg",
+      "title": "The Credentials/details required to get connected to LG Rigs, either through an LG App or by making an App for LG",
+      "file": "the-credentialsdetails-required-to-get-connected-to-lg-rigs-either-through-an-lg-app-or-by-making-an-app-for-lg.md"
+    },
+    {
+      "id": "how-to-stop-the-earth-from-spinning-continuously-in-the-master-vm",
+      "title": "HOW TO STOP THE EARTH FROM SPINNING CONTINUOUSLY IN THE MASTER VM",
+      "file": "how-to-stop-the-earth-from-spinning-continuously-in-the-master-vm.md"
+    },
+    {
+      "id": "open-sound-control-osc",
+      "title": "Open Sound Control (OSC)",
+      "file": "open-sound-control-osc.md"
+    },
+    {
+      "id": "integration-of-local-database-using-hive",
+      "title": "Integration of Local Database ( Using Hive )",
+      "file": "integration-of-local-database-using-hive.md"
+    },
+    {
+      "id": "speech-to-text-in-flutter",
+      "title": "Speech To Text in Flutter",
+      "file": "speech-to-text-in-flutter.md"
+    },
+    {
+      "id": "integration-of-local-database-using-hive-2",
+      "title": "Integration of Local Database ( Using Hive )",
+      "file": "integration-of-local-database-using-hive-2.md"
+    },
+    {
+      "id": "acknowledgment",
+      "title": "Acknowledgment:",
+      "file": "acknowledgment.md"
+    },
+    {
+      "id": "acknowledgment-2",
+      "title": "Acknowledgment",
+      "file": "acknowledgment-2.md"
+    },
+    {
+      "id": "topic-1-setrefresh-for-slaves-to-show-logos",
+      "title": "Topic 1: setRefresh for slaves to show logos",
+      "file": "topic-1-setrefresh-for-slaves-to-show-logos.md"
+    },
+    {
+      "id": "topic-2-sending-and-displaying-logos-or-legends-on-the-leftmost-slave",
+      "title": "Topic 2: Sending and displaying logos or legends on the leftmost slave",
+      "file": "topic-2-sending-and-displaying-logos-or-legends-on-the-leftmost-slave.md"
+    },
+    {
+      "id": "topic-3-google-maps-integration-in-the-flutter-app",
+      "title": "Topic 3: Google Maps Integration in the Flutter app",
+      "file": "topic-3-google-maps-integration-in-the-flutter-app.md"
+    },
+    {
+      "id": "questions-and-answers",
+      "title": "Questions and Answers",
+      "file": "questions-and-answers.md"
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "file": "introduction.md"
+    },
+    {
+      "id": "unified-modeling-language",
+      "title": "Unified Modeling Language",
+      "file": "unified-modeling-language.md"
+    },
+    {
+      "id": "worklogs",
+      "title": "WorkLogs",
+      "file": "worklogs.md"
+    },
+    {
+      "id": "software-process",
+      "title": "Software Process",
+      "file": "software-process.md"
+    },
+    {
+      "id": "agile-software-development",
+      "title": "Agile Software Development",
+      "file": "agile-software-development.md"
+    },
+    {
+      "id": "state-management-in-flutter",
+      "title": "State management in Flutter",
+      "file": "state-management-in-flutter.md"
+    },
+    {
+      "id": "state-management-in-flutter-2",
+      "title": "State management in Flutter",
+      "file": "state-management-in-flutter-2.md"
+    },
+    {
+      "id": "how-to-build-a-back-end-using-flask-to-integrate-your-app-with-machine-learning-features",
+      "title": "How to build a back-end using Flask to integrate your app with machine learning features?",
+      "file": "how-to-build-a-back-end-using-flask-to-integrate-your-app-with-machine-learning-features.md"
+    },
+    {
+      "id": "tour-of-cities-function-in-a-liquid-galaxy-with-flutter-app",
+      "title": "Tour of Cities function in a liquid galaxy with Flutter App.",
+      "file": "tour-of-cities-function-in-a-liquid-galaxy-with-flutter-app.md"
+    },
+    {
+      "id": "google-maps-package-for-flutter",
+      "title": "Google Maps package for flutter",
+      "file": "google-maps-package-for-flutter.md"
+    },
+    {
+      "id": "retrieve-data-asynchronously-in-the-form-of-csv-in-smart-city-dashboard-app-and-visualise-the-data",
+      "title": "Retrieve data asynchronously in the form of csv  in smart city dashboard app and visualise the data.",
+      "file": "retrieve-data-asynchronously-in-the-form-of-csv-in-smart-city-dashboard-app-and-visualise-the-data.md"
+    },
+    {
+      "id": "optimizing-navigation-and-view-control-in-liquid-galaxy-lg-google-earth",
+      "title": "Optimizing Navigation and View Control in Liquid Galaxy (LG) (Google Earth):",
+      "file": "optimizing-navigation-and-view-control-in-liquid-galaxy-lg-google-earth.md"
+    },
+    {
+      "id": "creating-basic-presentations-with-liquid-galaxy",
+      "title": "Creating Basic Presentations with Liquid Galaxy",
+      "file": "creating-basic-presentations-with-liquid-galaxy.md"
+    },
+    {
+      "id": "creating-basic-presentations-with-liquid-galaxy-2",
+      "title": "Creating Basic Presentations with Liquid Galaxy",
+      "file": "creating-basic-presentations-with-liquid-galaxy-2.md"
+    },
+    {
+      "id": "uploading-kml-on-specific-monitors",
+      "title": "Uploading KML on specific monitors",
+      "file": "uploading-kml-on-specific-monitors.md"
+    },
+    {
+      "id": "generating-kml-files-using-flutter-functions",
+      "title": "Generating KML files using Flutter functions:",
+      "file": "generating-kml-files-using-flutter-functions.md"
+    },
+    {
+      "id": "setrefresh-function",
+      "title": "SetRefresh function:",
+      "file": "setrefresh-function.md"
+    },
+    {
+      "id": "integrating-and-managing-a-csv-based-database-in-flutter",
+      "title": "Integrating and Managing a CSV-Based Database in Flutter",
+      "file": "integrating-and-managing-a-csv-based-database-in-flutter.md"
+    },
+    {
+      "id": "enhancing-your-flutter-app-with-speech-recognition",
+      "title": "Enhancing Your Flutter App with Speech Recognition",
+      "file": "enhancing-your-flutter-app-with-speech-recognition.md"
+    },
+    {
+      "id": "how-to-integrate-bluetooth-functionality-within-your-flutter-app",
+      "title": "How to integrate bluetooth functionality within your flutter app",
+      "file": "how-to-integrate-bluetooth-functionality-within-your-flutter-app.md"
+    },
+    {
+      "id": "networking-in-flutter-dio-vs-http",
+      "title": "Networking in Flutter: Dio vs. Http",
+      "file": "networking-in-flutter-dio-vs-http.md"
+    },
+    {
+      "id": "bloc-vs-getx-flutter-state-management",
+      "title": "Bloc vs. GetX: Flutter State Management",
+      "file": "bloc-vs-getx-flutter-state-management.md"
+    },
+    {
+      "id": "tflite-for-ai-model-integration",
+      "title": "TFlite for AI model integration",
+      "file": "tflite-for-ai-model-integration.md"
+    },
+    {
+      "id": "connecting-to-lg-using-device-outside-of-your-host-machine",
+      "title": "connecting to LG using device outside of your host machine",
+      "file": "connecting-to-lg-using-device-outside-of-your-host-machine.md"
+    },
+    {
+      "id": "using-riverpods-asyncvalue-to-access-loading-error-data-state-on-the-connection-screen",
+      "title": "Using riverpod’s AsyncValue to access loading, error, data state on the connection screen.",
+      "file": "using-riverpods-asyncvalue-to-access-loading-error-data-state-on-the-connection-screen.md"
+    },
+    {
+      "id": "stop-the-earth-from-spinning-on-startup",
+      "title": "Stop the earth from spinning on startup",
+      "file": "stop-the-earth-from-spinning-on-startup.md"
+    },
+    {
+      "id": "setup-of-liquid-galaxy-in-a-virtual-machine-vm",
+      "title": "Setup of Liquid Galaxy in a Virtual Machine (VM)",
+      "file": "setup-of-liquid-galaxy-in-a-virtual-machine-vm.md"
+    },
+    {
+      "id": "liquid-galaxy-setup-with-flutter-app-using-ssh-and-kml",
+      "title": "Liquid Galaxy Setup with Flutter App using SSH and KML",
+      "file": "liquid-galaxy-setup-with-flutter-app-using-ssh-and-kml.md"
+    },
+    {
+      "id": "setup-of-liquid-galaxy-in-a-virtual-machine-vm-2",
+      "title": "Setup of Liquid Galaxy in a Virtual Machine (VM)",
+      "file": "setup-of-liquid-galaxy-in-a-virtual-machine-vm-2.md"
+    },
+    {
+      "id": "liquid-galaxy-content-management-system-cms",
+      "title": "Liquid Galaxy Content Management System (CMS)",
+      "file": "liquid-galaxy-content-management-system-cms.md"
+    },
+    {
+      "id": "creating-and-initializing-a-sqflite-database",
+      "title": "Creating and initializing a SQFlite database",
+      "file": "creating-and-initializing-a-sqflite-database.md"
+    },
+    {
+      "id": "creating-and-modifying-tables-in-a-sqflite-database",
+      "title": "Creating and modifying tables in a SQFlite database:",
+      "file": "creating-and-modifying-tables-in-a-sqflite-database.md"
+    },
+    {
+      "id": "connection-in-an-api-in-a-flutter-app",
+      "title": "Connection in an API in a Flutter App",
+      "file": "connection-in-an-api-in-a-flutter-app.md"
+    },
+    {
+      "id": "fetching-and-displaying-api-data-using-javascript",
+      "title": "Fetching and Displaying API Data Using JavaScript",
+      "file": "fetching-and-displaying-api-data-using-javascript.md"
+    },
+    {
+      "id": "why-ssh-requests-cannot-be-sent-using-client-side-javascript-and-how-to-use-python-for-ssh",
+      "title": "Why SSH Requests Cannot Be Sent Using Client Side JavaScript and How to Use Python for SSH",
+      "file": "why-ssh-requests-cannot-be-sent-using-client-side-javascript-and-how-to-use-python-for-ssh.md"
+    },
+    {
+      "id": "configure-flask-server-to-be-accessed-from-liquid-galaxy-nodes",
+      "title": "Configure Flask Server to Be Accessed from Liquid Galaxy Nodes",
+      "file": "configure-flask-server-to-be-accessed-from-liquid-galaxy-nodes.md"
+    },
+    {
+      "id": "optimizing-android-studios-emulator-for-lg-apps",
+      "title": "Optimizing Android Studio's Emulator for LG Apps",
+      "file": "optimizing-android-studios-emulator-for-lg-apps.md"
+    },
+    {
+      "id": "automated-testing-strategies-for-liquid-galaxy-applications",
+      "title": "Automated Testing Strategies for Liquid Galaxy Applications",
+      "file": "automated-testing-strategies-for-liquid-galaxy-applications.md"
+    },
+    {
+      "id": "choosing-between-flutter-and-the-web-stack-for-lg-applications",
+      "title": "Choosing Between Flutter and the Web Stack for LG Applications",
+      "file": "choosing-between-flutter-and-the-web-stack-for-lg-applications.md"
+    },
+    {
+      "id": "implementing-free-multi-language-support-in-liquid-galaxy-using-flutter",
+      "title": "Implementing Free Multi-Language Support in Liquid Galaxy Using Flutter",
+      "file": "implementing-free-multi-language-support-in-liquid-galaxy-using-flutter.md"
+    },
+    {
+      "id": "generating-kml-elements-using-python-scripts-for-liquid-galaxy",
+      "title": "Generating KML Elements Using Python Scripts for Liquid Galaxy",
+      "file": "generating-kml-elements-using-python-scripts-for-liquid-galaxy.md"
+    },
+    {
+      "id": "integrating-google-arcore-with-liquid-galaxy-creating-mixed-reality-experiences",
+      "title": "Integrating Google ARCore with Liquid Galaxy: Creating Mixed Reality Experiences",
+      "file": "integrating-google-arcore-with-liquid-galaxy-creating-mixed-reality-experiences.md"
+    },
+    {
+      "id": "converting-3d-blender-model-to-kmz-file",
+      "title": "Converting 3D Blender Model to KMZ File",
+      "file": "converting-3d-blender-model-to-kmz-file.md"
+    },
+    {
+      "id": "qr-code-scanner-in-flutter",
+      "title": "QR Code Scanner in Flutter",
+      "file": "qr-code-scanner-in-flutter.md"
+    },
+    {
+      "id": "creating-animated-icons-in-flutter-using-rive",
+      "title": "Creating Animated Icons in Flutter using Rive",
+      "file": "creating-animated-icons-in-flutter-using-rive.md"
+    },
+    {
+      "id": "troubleshooting-multi-node-connectivity-in-lg-systems",
+      "title": "Troubleshooting Multi-Node Connectivity in LG Systems",
+      "file": "troubleshooting-multi-node-connectivity-in-lg-systems.md"
+    },
+    {
+      "id": "dynamic-kml-overlay-creation",
+      "title": "Dynamic KML Overlay Creation",
+      "file": "dynamic-kml-overlay-creation.md"
+    },
+    {
+      "id": "understanding-celestial-coordinates",
+      "title": "Understanding Celestial Coordinates",
+      "file": "understanding-celestial-coordinates.md"
+    },
+    {
+      "id": "how-to-use-different-virtual-network-modes-to-connect-to-lg-rig",
+      "title": "How to use different virtual network modes to connect to LG rig",
+      "file": "how-to-use-different-virtual-network-modes-to-connect-to-lg-rig.md"
+    },
+    {
+      "id": "how-to-create-your-own-dockerfile",
+      "title": "How to create your own Dockerfile",
+      "file": "how-to-create-your-own-dockerfile.md"
+    },
+    {
+      "id": "how-to-rebuild-apks-from-older-flutter-files",
+      "title": "How to rebuild apks from older flutter files",
+      "file": "how-to-rebuild-apks-from-older-flutter-files.md"
+    },
+    {
+      "id": "how-to-add-voice-commands-in-lg-web-app-voice-page",
+      "title": "How to Add Voice Commands in LG Web App Voice Page",
+      "file": "how-to-add-voice-commands-in-lg-web-app-voice-page.md"
+    },
+    {
+      "id": "how-to-generate-dynamic-coordinates-using-python-in-kml",
+      "title": "How to Generate Dynamic Coordinates Using Python in KML",
+      "file": "how-to-generate-dynamic-coordinates-using-python-in-kml.md"
+    },
+    {
+      "id": "behind-the-working-of-each-lg-command",
+      "title": "Behind the Working of Each LG Command",
+      "file": "behind-the-working-of-each-lg-command.md"
+    },
+    {
+      "id": "writing-effective-prompts-for-api-responses",
+      "title": "Writing Effective Prompts for API Responses",
+      "file": "writing-effective-prompts-for-api-responses.md"
+    },
+    {
+      "id": "troubleshooting-guide-connecting-the-liquid-galaxy-screens-with-physical-devicetab-using-port-forwarding-rules",
+      "title": "TroubleShooting Guide:  Connecting the Liquid galaxy screens with physical Device/Tab using port forwarding rules",
+      "file": "troubleshooting-guide-connecting-the-liquid-galaxy-screens-with-physical-devicetab-using-port-forwarding-rules.md"
+    },
+    {
+      "id": "creating-constellation-visualizations-in-lg-sky-view-using-kml-files",
+      "title": "Creating Constellation Visualizations in LG Sky View Using KML Files",
+      "file": "creating-constellation-visualizations-in-lg-sky-view-using-kml-files.md"
+    },
+    {
+      "id": "troubleshooting-guide-virtualbox-failed-to-open-or-create-host-only-ethernet-adapter",
+      "title": "TROUBLESHOOTING GUIDE: VirtualBox failed to open or create Host Only Ethernet Adapter",
+      "file": "troubleshooting-guide-virtualbox-failed-to-open-or-create-host-only-ethernet-adapter.md"
+    },
+    {
+      "id": "viewing-the-kml-straight-after-you-have-uploaded-them",
+      "title": "Viewing the KML straight after you have uploaded them",
+      "file": "viewing-the-kml-straight-after-you-have-uploaded-them.md"
+    },
+    {
+      "id": "creating-tab-bar-for-liquid-galaxy-apps",
+      "title": "Creating Tab Bar for Liquid Galaxy Apps",
+      "file": "creating-tab-bar-for-liquid-galaxy-apps.md"
+    },
+    {
+      "id": "implementing-hero-animations-in-flutter-app",
+      "title": "Implementing Hero Animations in Flutter App",
+      "file": "implementing-hero-animations-in-flutter-app.md"
+    },
+    {
+      "id": "adding-semantics-in-flutter-apps-to-enhance-accessibility",
+      "title": "Adding Semantics in Flutter Apps to enhance Accessibility",
+      "file": "adding-semantics-in-flutter-apps-to-enhance-accessibility.md"
+    },
+    {
+      "id": "integrating-google-apis-in-flutter-apps",
+      "title": "Integrating Google APIs in Flutter Apps",
+      "file": "integrating-google-apis-in-flutter-apps.md"
+    },
+    {
+      "id": "creating-a-kml-tour-visualization-screen-in-flutter",
+      "title": "Creating a KML Tour Visualization Screen in Flutter",
+      "file": "creating-a-kml-tour-visualization-screen-in-flutter.md"
+    },
+    {
+      "id": "integrating-text-to-speech-tts-in-flutter-applications",
+      "title": "Integrating Text-to-Speech (TTS) in Flutter Applications",
+      "file": "integrating-text-to-speech-tts-in-flutter-applications.md"
+    },
+    {
+      "id": "implementing-zoom-inout-in-kml-visualization-using-bloc",
+      "title": "Implementing Zoom In/Out in KML Visualization Using Bloc",
+      "file": "implementing-zoom-inout-in-kml-visualization-using-bloc.md"
+    },
+    {
+      "id": "multissh-service-for-liquid-galaxy",
+      "title": "MultiSSH Service for Liquid Galaxy",
+      "file": "multissh-service-for-liquid-galaxy.md"
+    },
+    {
+      "id": "screenshot-integration-for-liquid-galaxy",
+      "title": "Screenshot Integration for Liquid Galaxy",
+      "file": "screenshot-integration-for-liquid-galaxy.md"
+    },
+    {
+      "id": "robotic-arm-gesture-control-for-liquid-galaxy",
+      "title": "Robotic Arm Gesture Control for Liquid Galaxy",
+      "file": "robotic-arm-gesture-control-for-liquid-galaxy.md"
+    },
+    {
+      "id": "integrating-gemini-ai-into-web-application",
+      "title": "Integrating Gemini AI into Web Application",
+      "file": "integrating-gemini-ai-into-web-application.md"
+    },
+    {
+      "id": "integrating-the-lg-server-into-a-web-app",
+      "title": "Integrating the LG Server into a Web App",
+      "file": "integrating-the-lg-server-into-a-web-app.md"
+    },
+    {
+      "id": "animations-using-css",
+      "title": "Animations Using CSS",
+      "file": "animations-using-css.md"
+    },
+    {
+      "id": "advanced-camera-tour-animations-in-kml-spline-based-paths-cinematic-techniques",
+      "title": "Advanced Camera Tour Animations in KML: Spline-Based Paths & Cinematic Techniques",
+      "file": "advanced-camera-tour-animations-in-kml-spline-based-paths-cinematic-techniques.md"
+    },
+    {
+      "id": "how-ai-translates-speech-into-kml",
+      "title": "How AI translates Speech into KML",
+      "file": "how-ai-translates-speech-into-kml.md"
+    },
+    {
+      "id": "understanding-lg-relaunch",
+      "title": "Understanding lg-relaunch",
+      "file": "understanding-lg-relaunch.md"
+    },
+    {
+      "id": "significance-of-clean-kml-button",
+      "title": "Significance of ‘Clean KML’ Button",
+      "file": "significance-of-clean-kml-button.md"
+    },
+    {
+      "id": "how-to-change-celestial-bodies-earth-moon-mars-in-lg-rig-via-app-which-command-is-to-be-sent-for-this",
+      "title": "How to change celestial bodies (Earth, Moon, Mars) in LG rig via app, which command is to be sent for this?",
+      "file": "how-to-change-celestial-bodies-earth-moon-mars-in-lg-rig-via-app-which-command-is-to-be-sent-for-this.md"
+    },
+    {
+      "id": "how-to-send-a-simple-balloon-including-some-data-on-the-right-most-screen-code-logic",
+      "title": "How to send a simple balloon including some data on the right-most screen? (Code Logic)",
+      "file": "how-to-send-a-simple-balloon-including-some-data-on-the-right-most-screen-code-logic.md"
+    },
+    {
+      "id": "how-to-add-the-feature-of-orbit-motion-play-animation-to-any-point-code-logic",
+      "title": "How to add the feature of Orbit Motion Play animation to any point ? (Code Logic).",
+      "file": "how-to-add-the-feature-of-orbit-motion-play-animation-to-any-point-code-logic.md"
+    },
+    {
+      "id": "advanced-lg-camera-control",
+      "title": "Advanced LG Camera Control",
+      "file": "advanced-lg-camera-control.md"
+    },
+    {
+      "id": "3d-kml-creation-and-coloring-for-liquid-galaxy",
+      "title": "3D KML Creation and Coloring for Liquid Galaxy",
+      "file": "3d-kml-creation-and-coloring-for-liquid-galaxy.md"
+    },
+    {
+      "id": "logos-and-kmls-not-appearing-lg-refresh-mechanism",
+      "title": "Logos and KMLs Not Appearing: LG Refresh Mechanism",
+      "file": "logos-and-kmls-not-appearing-lg-refresh-mechanism.md"
+    },
+    {
+      "id": "mapping-of-joystick-controllers-to-control-google-earth-code-logic",
+      "title": "Mapping of Joystick Controllers to control Google Earth (Code Logic)",
+      "file": "mapping-of-joystick-controllers-to-control-google-earth-code-logic.md"
+    },
+    {
+      "id": "lg-screen-configuration-and-view-angle-calculation",
+      "title": "LG Screen Configuration and View Angle Calculation.",
+      "file": "lg-screen-configuration-and-view-angle-calculation.md"
+    },
+    {
+      "id": "automated-cinematic-tours-via-kml-how-to-create-and-trigger-fly-through-animations-from-app-code-logic",
+      "title": "Automated Cinematic Tours via KML, how to create and trigger \"fly-through\" animations from app (Code Logic).",
+      "file": "automated-cinematic-tours-via-kml-how-to-create-and-trigger-fly-through-animations-from-app-code-logic.md"
+    },
+    {
+      "id": "rendering-issue-of-a-pyramid-kml-across-master-and-slave-screens-in-liquid-galaxy",
+      "title": "Rendering Issue of a Pyramid (KML) Across Master and Slave Screens in Liquid Galaxy",
+      "file": "rendering-issue-of-a-pyramid-kml-across-master-and-slave-screens-in-liquid-galaxy.md"
+    },
+    {
+      "id": "liquid-galaxy-rig-not-connecting-to-app-even-after-getting-an-ip-address",
+      "title": "Liquid Galaxy Rig Not Connecting to App Even After Getting an IP Address",
+      "file": "liquid-galaxy-rig-not-connecting-to-app-even-after-getting-an-ip-address.md"
+    },
+    {
+      "id": "duplicate-earth-on-slave-screens-and-blank-master-after-lg-relaunch",
+      "title": "Duplicate Earth on Slave Screens and Blank Master After lg-relaunch",
+      "file": "duplicate-earth-on-slave-screens-and-blank-master-after-lg-relaunch.md"
+    },
+    {
+      "id": "error-fix-device-emulator-5554-is-offline-for-android-studio",
+      "title": "Error Fix: Device Emulator-5554 is Offline for Android Studio",
+      "file": "error-fix-device-emulator-5554-is-offline-for-android-studio.md"
+    },
+    {
+      "id": "ubuntu-1604-crashes-freezes-on-shutdownrestart",
+      "title": "Ubuntu 16.04 crashes / freezes on shutdown/restart",
+      "file": "ubuntu-1604-crashes-freezes-on-shutdownrestart.md"
+    },
+    {
+      "id": "resolving-virtualbox-launch-issues-caused-by-windows-hypervisor-conflict",
+      "title": "Resolving VirtualBox Launch Issues Caused by Windows Hypervisor Conflict",
+      "file": "resolving-virtualbox-launch-issues-caused-by-windows-hypervisor-conflict.md"
+    },
+    {
+      "id": "basic-folder-structure-used-in-liquid-galaxy-setup",
+      "title": "Basic Folder Structure Used in Liquid Galaxy Setup",
+      "file": "basic-folder-structure-used-in-liquid-galaxy-setup.md"
+    },
+    {
+      "id": "running-and-testing-a-flutter-app-for-liquid-galaxy-locally",
+      "title": "Running and Testing a Flutter App for Liquid Galaxy Locally",
+      "file": "running-and-testing-a-flutter-app-for-liquid-galaxy-locally.md"
+    },
+    {
+      "id": "liquid-galaxy-maintenance-and-troubleshooting-commands-for-contributors",
+      "title": "Liquid Galaxy Maintenance and Troubleshooting Commands for Contributors",
+      "file": "liquid-galaxy-maintenance-and-troubleshooting-commands-for-contributors.md"
+    },
+    {
+      "id": "understanding-the-liquid-galaxy-boot-process",
+      "title": "Understanding the Liquid Galaxy Boot Process",
+      "file": "understanding-the-liquid-galaxy-boot-process.md"
+    },
+    {
+      "id": "understanding-file-permissions-and-ownership-in-liquid-galaxy",
+      "title": "Understanding File Permissions and Ownership in Liquid Galaxy",
+      "file": "understanding-file-permissions-and-ownership-in-liquid-galaxy.md"
+    },
+    {
+      "id": "understanding-environment-variables-in-liquid-galaxy",
+      "title": "Understanding Environment Variables in Liquid Galaxy",
+      "file": "understanding-environment-variables-in-liquid-galaxy.md"
+    },
+    {
+      "id": "resolving-sftp-permission-denied-errors-for-asset-hosting",
+      "title": "Resolving SFTP 'Permission Denied' Errors for Asset Hosting",
+      "file": "resolving-sftp-permission-denied-errors-for-asset-hosting.md"
+    },
+    {
+      "id": "implementing-dynamic-ssh-ports-in-flutter",
+      "title": "Implementing Dynamic SSH Ports in Flutter",
+      "file": "implementing-dynamic-ssh-ports-in-flutter.md"
+    },
+    {
+      "id": "cold-boot-vs-warm-boot-for-flutter-emulators-android-emulator",
+      "title": "Cold Boot vs Warm Boot for Flutter Emulators (Android Emulator)",
+      "file": "cold-boot-vs-warm-boot-for-flutter-emulators-android-emulator.md"
+    },
+    {
+      "id": "cold-boot-vs-warm-boot-for-flutter-emulators-android-emulator-2",
+      "title": "Cold Boot vs Warm Boot for Flutter Emulators (Android Emulator)",
+      "file": "cold-boot-vs-warm-boot-for-flutter-emulators-android-emulator-2.md"
+    },
+    {
+      "id": "cold-boot-vs-warm-boot",
+      "title": "Cold Boot vs Warm Boot",
+      "file": "cold-boot-vs-warm-boot.md"
+    },
+    {
+      "id": "cold-boot-vs-warm-boot-2",
+      "title": "Cold Boot vs Warm Boot",
+      "file": "cold-boot-vs-warm-boot-2.md"
+    },
+    {
+      "id": "understanding-linux-resource-usage-in-liquid-galaxy",
+      "title": "Understanding Linux Resource Usage in Liquid Galaxy",
+      "file": "understanding-linux-resource-usage-in-liquid-galaxy.md"
+    },
+    {
+      "id": "why-bugs-appear-on-real-devices-but-not-in-flutter-emulators",
+      "title": "Why Bugs appear on Real Devices but Not in Flutter Emulators",
+      "file": "why-bugs-appear-on-real-devices-but-not-in-flutter-emulators.md"
+    },
+    {
+      "id": "standardized-naming-conventions-for-gsoc-task-submissions",
+      "title": "Standardized Naming Conventions for GSoC Task Submissions",
+      "file": "standardized-naming-conventions-for-gsoc-task-submissions.md"
+    },
+    {
+      "id": "kml-debugging-verification-method",
+      "title": "KML Debugging & Verification Method",
+      "file": "kml-debugging-verification-method.md"
+    },
+    {
+      "id": "troubleshooting-the-red-x-missing-asset-error-in-kmls",
+      "title": "Troubleshooting the \"Red X\" Missing Asset Error in KMLs",
+      "file": "troubleshooting-the-red-x-missing-asset-error-in-kmls.md"
+    }
+  ]
+}
