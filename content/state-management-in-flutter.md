@@ -1,7 +1,7 @@
----
+﻿---
 title: State management in Flutter
 contributor: Peter Atef
-date: 2024-06-12T12:40:29.942+00:00
+date: June 12, 2024
 ---
 
   

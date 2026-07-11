@@ -1,7 +1,7 @@
----
+﻿---
 title: Understanding Celestial Coordinates
 contributor: Vishal Maurya
-date: 2025-02-27T19:52:38.134+00:00
+date: February 27, 2025
 ---
 
 Celestial objects are typically located using:

@@ -1,7 +1,7 @@
----
+﻿---
 title: 3D KML Creation and Coloring for Liquid Galaxy
 contributor: Darpan Baviskar
-date: 2026-02-16T13:59:07.082+00:00
+date: February 16, 2026
 ---
 
 3D KML Creation and Coloring for Liquid Galaxy

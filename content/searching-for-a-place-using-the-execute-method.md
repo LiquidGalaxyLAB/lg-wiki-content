@@ -1,7 +1,7 @@
----
+﻿---
 title: Searching for a place using the execute method
 contributor: Prithvi Dutta
-date: 2024-06-05T14:48:41.990+00:00
+date: June 5, 2024
 ---
 ## Overview
 Have you ever wondered how the LG Controller search bar works and takes the LG rig to different places? Let’s understand the process:  

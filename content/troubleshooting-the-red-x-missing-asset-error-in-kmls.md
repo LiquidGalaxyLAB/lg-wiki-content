@@ -1,7 +1,7 @@
----
+﻿---
 title: Troubleshooting the "Red X" Missing Asset Error in KMLs
 contributor: Anirudh Pratap Singh Yadav
-date: 2026-03-25T15:18:59.597+00:00
+date: March 25, 2026
 ---
 
 ### The Problem

@@ -1,7 +1,7 @@
----
+﻿---
 title: Agile Software Development
 contributor: Peter Atef
-date: 2024-06-12T10:11:02.261+00:00
+date: June 12, 2024
 ---
 
   

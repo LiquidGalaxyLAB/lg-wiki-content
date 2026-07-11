@@ -1,7 +1,7 @@
----
+﻿---
 title: Troubleshooting KML Parsing Issues
 contributor: Ryan_Kim
-date: 2024-06-05T08:37:30.550+00:00
+date: June 5, 2024
 ---
 
 ## Troubleshooting KML Parsing Issues

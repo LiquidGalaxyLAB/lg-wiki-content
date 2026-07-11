@@ -1,7 +1,7 @@
----
+﻿---
 title: Viewing the KML straight after you have uploaded them
 contributor: Debanjan Naskar
-date: 2025-03-17T16:54:36.191+00:00
+date: March 17, 2025
 ---
 ## Overview
 We can upload KMLs to the Liquid Galaxy Server by opening the SFTP client and uploading the file from the Assets folder of your Flutter Project.

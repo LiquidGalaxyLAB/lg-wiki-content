@@ -1,7 +1,7 @@
----
+﻿---
 title: HOW TO USE THE GOOGLE MAPS API KEY FOR LIQUID GALAXY WITHOUT ANY BILLING ADDRESS
 contributor: Baikuntha B Bihari
-date: 2024-06-11T13:05:23.285+00:00
+date: June 11, 2024
 ---
 ## Overview
 _**What is an API Key?**_  

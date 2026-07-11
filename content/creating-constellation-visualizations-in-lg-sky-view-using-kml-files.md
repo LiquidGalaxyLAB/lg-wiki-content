@@ -1,7 +1,7 @@
----
+﻿---
 title: Creating Constellation Visualizations in LG Sky View Using KML Files
 contributor: Vedang Lokhande
-date: 2025-03-04T13:01:54.796+00:00
+date: March 4, 2025
 ---
 ## Overview
 Creating Constellation Visualizations in LG Sky View Using KML Files

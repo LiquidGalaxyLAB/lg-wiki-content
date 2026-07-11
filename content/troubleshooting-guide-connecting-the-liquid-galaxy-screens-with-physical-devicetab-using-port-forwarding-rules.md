@@ -1,7 +1,7 @@
----
+﻿---
 title: "TroubleShooting Guide\:  Connecting the Liquid galaxy screens with physical Device/Tab using port forwarding rules"
 contributor: Rohit Kumar
-date: 2025-03-04T12:08:23.872+00:00
+date: March 4, 2025
 ---
 
 Troubleshooting SSH Connection Issues in Liquid Galaxy

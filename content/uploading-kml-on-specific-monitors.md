@@ -1,7 +1,7 @@
----
+﻿---
 title: Uploading KML on specific monitors
 contributor: Vertika Bajpai
-date: 2024-06-13T09:00:36.864+00:00
+date: June 13, 2024
 ---
 
   

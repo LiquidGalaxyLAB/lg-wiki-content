@@ -1,7 +1,7 @@
----
+﻿---
 title: Ubuntu 16.04 crashes / freezes on shutdown/restart
 contributor: Harsh Mehta
-date: 2026-03-01T11:57:06.451+00:00
+date: March 1, 2026
 ---
 
 Ubuntu 16.04 virtual machines may occasionally hang during shutdown or restart. Instead of powering off cleanly, the VM remains stuck at the shutdown target, requiring manual termination from the host system. This disrupts normal workflows and complicates reproducibility in virtualized environments.

@@ -1,7 +1,7 @@
----
+﻿---
 title: How to Generate Dynamic Coordinates Using Python in KML
 contributor: Vedang Lokhande
-date: 2025-03-04T05:21:38.326+00:00
+date: March 4, 2025
 ---
 
 # How to Generate Dynamic Coordinates Using Python in KML

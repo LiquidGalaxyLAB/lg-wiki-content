@@ -1,7 +1,7 @@
----
+﻿---
 title: How AI translates Speech into KML
 contributor: Saumya Bhattacharya
-date: 2026-02-12T11:46:41.129+00:00
+date: February 12, 2026
 ---
 
 ## How AI translates Speech into KML

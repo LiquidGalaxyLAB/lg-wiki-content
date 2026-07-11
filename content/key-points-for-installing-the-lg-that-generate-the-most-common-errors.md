@@ -1,7 +1,7 @@
----
+﻿---
 title: Key points for installing the LG that generate the most common errors.
 contributor: Gerard Monsó
-date: 2024-06-10T14:33:37.020+00:00
+date: June 10, 2024
 ---
 ## Overview
 \

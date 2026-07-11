@@ -1,7 +1,7 @@
----
+﻿---
 title: "Topic 1\: setRefresh for slaves to show logos"
 contributor: Manas Dalvi
-date: 2024-06-11T16:05:49.404+00:00
+date: June 11, 2024
 ---
 
   

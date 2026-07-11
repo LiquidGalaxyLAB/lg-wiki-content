@@ -1,7 +1,7 @@
----
+﻿---
 title: Logging SSH Command Log Outputs
 contributor: Ryan Kim
-date: 2024-06-05T09:59:12.406+00:00
+date: June 5, 2024
 ---
 ## Overview
 Every Flutter application that interacts with the LG rigs will communicate with the machines via SSH. Because of this, we establish the connection via IP address, username, password, and port. When we execute these Linux commands after our connection, any logs or error messages will not be visible to us immediately as they are executed via the application instead. Any Flutter issues such as compilation errors will show on the local code editor such as VS code, but it is also important to see logs of SSH commands that we execute to make sure they are doing what we intended them to do.  

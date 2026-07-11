@@ -1,7 +1,7 @@
----
+﻿---
 title: WorkLogs
 contributor: Rofayda Bassem
-date: 2024-06-12T08:05:21.692+00:00
+date: June 12, 2024
 ---
 
   

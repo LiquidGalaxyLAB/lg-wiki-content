@@ -1,7 +1,7 @@
----
+﻿---
 title: How to build a back-end using Flask to integrate your app with machine learning features?
 contributor: Peter Atef
-date: 2024-06-12T13:06:24.805+00:00
+date: June 12, 2024
 ---
 
   

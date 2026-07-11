@@ -1,7 +1,7 @@
----
+﻿---
 title: "Error Fix\: Device Emulator-5554 is Offline for Android Studio"
 contributor: Harsh Mehta
-date: 2026-03-01T11:45:07.799+00:00
+date: March 1, 2026
 ---
 
 * * *

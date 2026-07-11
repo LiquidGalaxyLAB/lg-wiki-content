@@ -1,7 +1,7 @@
----
+﻿---
 title: Liquid Galaxy App Developer Quick Start Guide
 contributor: Soham Jaiswal
-date: 2024-06-11T10:34:27.941+00:00
+date: June 11, 2024
 ---
 
   

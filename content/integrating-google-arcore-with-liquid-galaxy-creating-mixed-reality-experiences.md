@@ -1,7 +1,7 @@
----
+﻿---
 title: "Integrating Google ARCore with Liquid Galaxy\: Creating Mixed Reality Experiences"
 contributor: Jaivardhan Shukla
-date: 2025-02-13T17:36:38.366+00:00
+date: February 13, 2025
 ---
 
 # Integrating Google ARCore with Liquid Galaxy: Creating Mixed Reality Experiences

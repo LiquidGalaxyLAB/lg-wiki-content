@@ -1,7 +1,7 @@
----
+﻿---
 title: Sending images about a real LG machine.
 contributor: Gerard Monsó
-date: 2024-06-10T15:43:52.633+00:00
+date: June 10, 2024
 ---
 ## Overview
 \

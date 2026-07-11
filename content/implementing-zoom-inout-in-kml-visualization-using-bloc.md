@@ -1,7 +1,7 @@
----
+﻿---
 title: Implementing Zoom In/Out in KML Visualization Using Bloc
 contributor: Arindam Bera
-date: 2025-03-20T22:35:12.429+00:00
+date: March 20, 2025
 ---
 
 Implementation of zoom-in and zoom-out functionality in a KML visualization using Flutter's Bloc.

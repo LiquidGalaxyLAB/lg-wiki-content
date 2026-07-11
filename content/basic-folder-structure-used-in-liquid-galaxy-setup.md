@@ -1,7 +1,7 @@
----
+﻿---
 title: Basic Folder Structure Used in Liquid Galaxy Setup
 contributor: Vinayak Dhaka
-date: 2026-03-01T18:45:04.719+00:00
+date: March 1, 2026
 ---
 ## Overview
 Basic Folder Structure Used in Liquid Galaxy Setup

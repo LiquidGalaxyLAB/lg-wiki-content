@@ -1,7 +1,7 @@
----
+﻿---
 title: Unified Modeling Language
 contributor: Rofayda Bassem
-date: 2024-06-12T08:02:04.754+00:00
+date: June 12, 2024
 ---
 
   

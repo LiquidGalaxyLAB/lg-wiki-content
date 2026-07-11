@@ -1,7 +1,7 @@
----
+﻿---
 title: Connecting Liquid Galaxy Rigs to Physical Devices via Port Forwarding.
 contributor: Sidharth Mudgil
-date: 2024-06-05T10:55:30.555+00:00
+date: June 5, 2024
 ---
 
 When running Liquid Galaxy on virtual machines (VMs), connecting physical devices such as smartphones or tablets to the master machine within the VM might be challenging, especially when the master machine's IP address is not directly accessible from the physical network. To resolve this, we can utilize port forwarding.  

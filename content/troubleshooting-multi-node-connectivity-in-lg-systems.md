@@ -1,7 +1,7 @@
----
+﻿---
 title: Troubleshooting Multi-Node Connectivity in LG Systems
 contributor: Vishal Maurya
-date: 2025-02-27T16:34:50.512+00:00
+date: February 27, 2025
 ---
 
 Liquid Galaxy systems rely on seamless communication between multiple nodes to deliver an immersive, synchronized visual experience. When connectivity issues arise, they can lead to inconsistent display, delayed command execution, or even system crashes. Here’s an in-depth guide to help you diagnose and resolve multi-node connectivity problems in your LG rig:

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Topic 3\: Google Maps Integration in the Flutter app"
 contributor: Manas Dalvi
-date: 2024-06-11T16:29:27.289+00:00
+date: June 11, 2024
 ---
 
 \

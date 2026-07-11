@@ -1,7 +1,7 @@
----
+﻿---
 title: Understanding File Permissions and Ownership in Liquid Galaxy
 contributor: Sahana K B
-date: 2026-03-01T19:49:49.430+00:00
+date: March 1, 2026
 ---
 
 # Understanding File Permissions and Ownership in Liquid Galaxy

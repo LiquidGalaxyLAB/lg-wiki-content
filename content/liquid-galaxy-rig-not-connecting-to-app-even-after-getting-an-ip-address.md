@@ -1,7 +1,7 @@
----
+﻿---
 title: Liquid Galaxy Rig Not Connecting to App Even After Getting an IP Address
 contributor: Raksha AK
-date: 2026-02-25T17:14:51.494+00:00
+date: February 25, 2026
 ---
 
 #  Liquid Galaxy Rig Not Connecting to App Even After Getting an IP Address

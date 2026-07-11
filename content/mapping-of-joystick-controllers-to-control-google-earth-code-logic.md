@@ -1,7 +1,7 @@
----
+﻿---
 title: Mapping of Joystick Controllers to control Google Earth (Code Logic)
 contributor: Yashendra Awasthi
-date: 2026-02-23T10:46:07.508+00:00
+date: February 23, 2026
 ---
 
 **When we have to control Google Earth through an app, we have to use the “flutter\_joystick” package. It is a vector controller that manipulates the LookAt camera parameters in real-time.**

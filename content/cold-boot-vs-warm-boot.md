@@ -1,7 +1,7 @@
----
+﻿---
 title: Cold Boot vs Warm Boot
 contributor: Abhishek Chaudhary
-date: 2026-03-18T02:32:21.422+00:00
+date: March 18, 2026
 ---
 ## Overview
 Topic 1: Cold Boot vs Warm Boot for Flutter Emulators (Android Emulator)

@@ -1,7 +1,7 @@
----
+﻿---
 title: Tour of Cities function in a liquid galaxy with Flutter App.
 contributor: Om Jadhav
-date: 2024-06-12T13:33:36.098+00:00
+date: June 12, 2024
 ---
 
   

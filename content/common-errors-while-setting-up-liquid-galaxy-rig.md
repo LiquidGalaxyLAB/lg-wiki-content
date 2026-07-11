@@ -1,7 +1,7 @@
----
+﻿---
 title: Common Errors While Setting Up Liquid Galaxy Rig
 contributor: Shaunak Nagrecha
-date: 2024-06-07T15:44:42.700+00:00
+date: June 7, 2024
 ---
 ## Overview
 ![Screenshot 2024-02-06 131827](https://lh7-us.googleusercontent.com/docsz/AD_4nXdyA5JpS7vl3nIJ6TOmqCqc9_loQIwCSpqF69fSGBISerfIEGfI__hnqzhVkfvdPVo0AgAU5wSsODG0NP87lGVgJYBPZBxnQt1rMMz3aGhZyHmony-8EEU_s5iqVvAkGIFeNhyNe_RaDjdqHnH75mUcTrc?key=O65rb5sVvfS3xfhPyj0BQg "Screenshot 2024-02-06 131827")  

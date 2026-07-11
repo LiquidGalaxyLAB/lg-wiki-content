@@ -1,7 +1,7 @@
----
+﻿---
 title: Running LG Commands Via SSH
 contributor: Ryan Kim
-date: 2024-06-05T09:06:19.427+00:00
+date: June 5, 2024
 ---
 ## Overview
 Liquid Galaxy has a lot of useful commands that run on the LG rigs after the setup. The most common command and the one everyone has likely used when setting up is lg-relaunch, which is run on the master VM to reboot all the machines in the system.  

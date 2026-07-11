@@ -1,7 +1,7 @@
----
+﻿---
 title: "Creating and modifying tables in a SQFlite database\:"
 contributor: Davit Mas
-date: 2024-06-13T16:01:33.443+00:00
+date: June 13, 2024
 ---
 ## Overview
 \

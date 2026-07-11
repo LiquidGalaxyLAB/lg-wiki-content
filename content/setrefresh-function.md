@@ -1,7 +1,7 @@
----
+﻿---
 title: "SetRefresh function\:"
 contributor: Vertika Bajpai
-date: 2024-06-13T10:09:16.076+00:00
+date: June 13, 2024
 ---
 ## Overview
 \

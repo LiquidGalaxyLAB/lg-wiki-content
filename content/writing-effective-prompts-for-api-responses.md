@@ -1,7 +1,7 @@
----
+﻿---
 title: Writing Effective Prompts for API Responses
 contributor: Rohit Kumar
-date: 2025-03-04T11:13:17.727+00:00
+date: March 4, 2025
 ---
 
 # Introduction

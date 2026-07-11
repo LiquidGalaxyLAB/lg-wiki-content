@@ -1,7 +1,7 @@
----
+﻿---
 title: Fetching and Displaying API Data Using JavaScript
 contributor: Taha Sadikot
-date: 2025-01-06T11:57:00.591+00:00
+date: January 6, 2025
 ---
 
 Fetching Data from APIs

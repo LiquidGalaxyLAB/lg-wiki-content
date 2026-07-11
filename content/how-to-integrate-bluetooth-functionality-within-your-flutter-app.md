@@ -1,7 +1,7 @@
----
+﻿---
 title: How to integrate bluetooth functionality within your flutter app
 contributor: Ashutosh Srivastava
-date: 2024-06-13T10:48:25.808+00:00
+date: June 13, 2024
 ---
 
   

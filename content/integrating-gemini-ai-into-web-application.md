@@ -1,7 +1,7 @@
----
+﻿---
 title: Integrating Gemini AI into Web Application
 contributor: Karan Kumar Das
-date: 2025-04-11T18:17:27.301+00:00
+date: April 11, 2025
 ---
 
 Integrating Gemini AI into Web Application

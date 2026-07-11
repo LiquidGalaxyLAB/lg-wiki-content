@@ -1,7 +1,7 @@
----
+﻿---
 title: Server Installation
 contributor: Rafel Salgueiro
-date: 2024-06-10T10:18:46.769+00:00
+date: June 10, 2024
 ---
 
 ## Introduction

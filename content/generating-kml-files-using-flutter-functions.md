@@ -1,7 +1,7 @@
----
+﻿---
 title: "Generating KML files using Flutter functions\:"
 contributor: Vertika Bajpai
-date: 2024-06-13T10:00:49.777+00:00
+date: June 13, 2024
 ---
 ## Overview
 → KML uses a tag-based structure with nested elements and attributes and is based on the XML standard.We can create Placemarks, Paths, Polygons on Google Earth if we know the standard data of the place. The commonly used tags which help to create KMLs to create visualization are <latitude>,<longitude> for placemarks, <LineString> for Paths.  

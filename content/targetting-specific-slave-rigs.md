@@ -1,7 +1,7 @@
----
+﻿---
 title: Targetting Specific Slave Rigs
 contributor: Ryan Kim
-date: 2024-06-05T09:01:24.925+00:00
+date: June 5, 2024
 ---
 ## Overview
 Liquid Galaxy is run on a Master-Slave architecture, meaning that the master machine is responsible for coordinating and delivering instructions to its slave VMs. In some cases, we may need to run certain KML files targeted to specific slave machines (such as for displaying logos, images, etc.).  

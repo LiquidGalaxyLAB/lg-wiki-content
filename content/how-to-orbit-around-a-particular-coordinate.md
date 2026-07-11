@@ -1,7 +1,7 @@
----
+﻿---
 title: How to Orbit around a particular coordinate?
 contributor: Saumya Bhattacharya
-date: 2024-06-07T07:30:53.698+00:00
+date: June 7, 2024
 ---
 ## Overview
 To answer this question, let's start with what we actually mean by “orbit around a particular coordinate”. This refers to the capability of a system to move and rotate around a specific point in a virtual environment, in a controlled manner. Take help of the following code to understand and implement this feature:  

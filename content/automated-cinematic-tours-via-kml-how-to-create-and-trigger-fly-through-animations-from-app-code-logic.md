@@ -1,7 +1,7 @@
----
+﻿---
 title: Automated Cinematic Tours via KML, how to create and trigger "fly-through" animations from app (Code Logic).
 contributor: Yashendra Awasthi
-date: 2026-02-24T17:50:16.551+00:00
+date: February 24, 2026
 ---
 
 **Unlike a standard FlyTo command which roughly moves the camera to a new location, a KML Tour (\<gx:Tour\>) allows smooth movement along a path.**

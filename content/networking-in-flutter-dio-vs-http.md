@@ -1,7 +1,7 @@
----
+﻿---
 title: "Networking in Flutter\: Dio vs. Http"
 contributor: Shiven Upadhyay
-date: 2024-06-13T13:04:19.591+00:00
+date: June 13, 2024
 ---
 
   

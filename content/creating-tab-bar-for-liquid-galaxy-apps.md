@@ -1,7 +1,7 @@
----
+﻿---
 title: Creating Tab Bar for Liquid Galaxy Apps
 contributor: Debanjan Naskar
-date: 2025-03-17T17:11:41.685+00:00
+date: March 17, 2025
 ---
 ## Overview
 It has been conventionally seen that In Liquid Galaxy Apps, we generally use a Home Screen for all the necessary buttons to run our core App functionalities but for the Connection functionalities we still use a ‘gear-icon’ Settings.

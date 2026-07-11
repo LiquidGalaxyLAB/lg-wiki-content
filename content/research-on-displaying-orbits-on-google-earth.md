@@ -1,7 +1,7 @@
----
+﻿---
 title: Research on Displaying Orbits on Google Earth
 contributor: Mattia Baggini
-date: 2024-03-18T09:57:24.863+00:00
+date: March 18, 2024
 ---
 
 ## Introduction

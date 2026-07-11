@@ -1,7 +1,7 @@
----
+﻿---
 title: Choosing Between Flutter and the Web Stack for LG Applications
 contributor: Rajat Kriplani
-date: 2025-02-11T10:14:01.430+00:00
+date: February 11, 2025
 ---
 
 When developing Liquid Galaxy (LG) applications, selecting between Dart/Flutter and traditional web technologies (HTML/CSS/JavaScript) is critical. Each approach offers unique benefits and tradeoffs in performance, UI consistency, integration, and maintenance.

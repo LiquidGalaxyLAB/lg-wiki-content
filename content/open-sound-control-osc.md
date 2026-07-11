@@ -1,7 +1,7 @@
----
+﻿---
 title: Open Sound Control (OSC)
 contributor: Vivek Maurya
-date: 2024-06-11T14:38:40.287+00:00
+date: June 11, 2024
 ---
 
 \

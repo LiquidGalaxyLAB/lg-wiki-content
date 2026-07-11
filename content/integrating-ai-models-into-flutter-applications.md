@@ -1,7 +1,7 @@
----
+﻿---
 title: Integrating AI Models into Flutter Applications
 contributor: Shashwat srivastava
-date: 2024-06-07T14:47:51.235+00:00
+date: June 7, 2024
 ---
 
   

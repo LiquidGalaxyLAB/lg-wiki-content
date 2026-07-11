@@ -1,7 +1,7 @@
----
+﻿---
 title: Understanding lg-relaunch
 contributor: Saumya Bhattacharya
-date: 2026-02-12T12:05:21.054+00:00
+date: February 12, 2026
 ---
 
 ## **Understanding lg-relaunch**

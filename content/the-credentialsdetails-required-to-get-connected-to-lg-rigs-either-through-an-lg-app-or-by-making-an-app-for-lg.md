@@ -1,7 +1,7 @@
----
+﻿---
 title: The Credentials/details required to get connected to LG Rigs, either through an LG App or by making an App for LG
 contributor: Baikuntha B Bihari
-date: 2024-06-11T13:24:24.697+00:00
+date: June 11, 2024
 ---
 ## Overview
 _**PART - 1**_  

@@ -1,7 +1,7 @@
----
+﻿---
 title: Behind the Working of Each LG Command
 contributor: Rohit
-date: 2025-03-04T11:10:52.992+00:00
+date: March 4, 2025
 ---
 
 # Behind the Working of Each LG Command

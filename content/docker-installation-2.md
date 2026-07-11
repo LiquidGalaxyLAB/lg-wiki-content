@@ -1,7 +1,7 @@
----
+﻿---
 title: Docker Installation
 contributor: Rafel Salgueiro
-date: 2024-06-10T12:49:40.063+00:00
+date: June 10, 2024
 ---
 
 ## Introduction

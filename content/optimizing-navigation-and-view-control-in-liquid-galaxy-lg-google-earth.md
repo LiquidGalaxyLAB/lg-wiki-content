@@ -1,7 +1,7 @@
----
+﻿---
 title: "Optimizing Navigation and View Control in Liquid Galaxy (LG) (Google Earth)\:"
 contributor: Pablo Asenjo Gonsa
-date: 2024-06-12T16:12:23.717+00:00
+date: June 12, 2024
 ---
 
   

@@ -1,7 +1,7 @@
----
+﻿---
 title: How to use different virtual network modes to connect to LG rig
 contributor: Tathagat Kumar
-date: 2025-03-01T18:55:12.275+00:00
+date: March 1, 2025
 ---
 ## Overview
 How to use different virtual network modes to connect to LG rig

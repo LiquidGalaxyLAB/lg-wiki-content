@@ -1,7 +1,7 @@
----
+﻿---
 title: Understanding Environment Variables in Liquid Galaxy
 contributor: Sahana K B
-date: 2026-03-01T19:57:55.448+00:00
+date: March 1, 2026
 ---
 
 # Understanding Environment Variables in Liquid Galaxy

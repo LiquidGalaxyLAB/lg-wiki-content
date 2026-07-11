@@ -1,7 +1,7 @@
----
+﻿---
 title: Integrating Google APIs in Flutter Apps
 contributor: Aayush Kumar
-date: 2025-03-17T20:15:09.161+00:00
+date: March 17, 2025
 ---
 
 # Integrating Google APIs in Flutter Apps

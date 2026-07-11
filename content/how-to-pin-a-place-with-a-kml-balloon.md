@@ -1,7 +1,7 @@
----
+﻿---
 title: How to pin a place with a KML Balloon?
 contributor: Saumya Bhattacharya
-date: 2024-06-07T07:55:29.858+00:00
+date: June 7, 2024
 ---
 ## Overview
 Why not ask what is a KML Balloon first? A KML Balloon is a graphical element used to display information or content, typically associated with a specific location on a map , often appearing as a pop-up window when clicked or hovered over.  

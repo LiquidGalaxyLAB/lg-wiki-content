@@ -1,7 +1,7 @@
----
+﻿---
 title: Running and Testing a Flutter App for Liquid Galaxy Locally
 contributor: Vinayak Dhaka
-date: 2026-03-01T18:54:26.530+00:00
+date: March 1, 2026
 ---
 
 # Running and Testing a Flutter App for Liquid Galaxy Locally

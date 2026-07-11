@@ -1,7 +1,7 @@
----
+﻿---
 title: "Implementing Glass-morphic and Neu-morphic UI in Flutter\:"
 contributor: Aritra Biswas
-date: 2024-06-05T13:42:45.631+00:00
+date: June 5, 2024
 ---
 
 An intuitive and visually attractive UI/UX experience is crucial in Flutter as it enhances the overall experience of the user. It makes the interaction enriching and enjoyable. Flutter is excellent because it has a flexible and rich set of customizable widgets, allowing seamless and responsive interfaces across devices.  

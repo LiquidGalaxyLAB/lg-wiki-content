@@ -1,7 +1,7 @@
----
+﻿---
 title: Automated Testing Strategies for Liquid Galaxy Applications
 contributor: Rajat Kriplani
-date: 2025-02-11T09:55:52.707+00:00
+date: February 11, 2025
 ---
 
 Automated testing is essential for ensuring reliability in Liquid Galaxy applications, given their dependency on SSH communication and KML interactions. This guide outlines basic testing approaches using Flutter's testing tools.

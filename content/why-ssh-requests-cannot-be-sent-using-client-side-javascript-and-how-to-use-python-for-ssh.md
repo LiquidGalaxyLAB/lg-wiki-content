@@ -1,7 +1,7 @@
----
+﻿---
 title: Why SSH Requests Cannot Be Sent Using Client Side JavaScript and How to Use Python for SSH
 contributor: Taha Sadikot
-date: 2025-01-15T21:11:02.840+00:00
+date: January 15, 2025
 ---
 
 ## Introduction  

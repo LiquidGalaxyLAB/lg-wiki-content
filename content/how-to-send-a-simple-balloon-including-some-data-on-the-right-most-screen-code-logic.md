@@ -1,7 +1,7 @@
----
+﻿---
 title: How to send a simple balloon including some data on the right-most screen? (Code Logic)
 contributor: Aryan Sharma
-date: 2026-02-13T13:13:59.499+00:00
+date: February 13, 2026
 ---
 
 

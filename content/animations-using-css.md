@@ -1,7 +1,7 @@
----
+﻿---
 title: Animations Using CSS
 contributor: Karan Kumar Das
-date: 2025-04-11T18:41:56.756+00:00
+date: April 11, 2025
 ---
 
 # Animations Using CSS

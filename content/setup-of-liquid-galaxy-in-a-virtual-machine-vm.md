@@ -1,7 +1,7 @@
----
+﻿---
 title: Setup of Liquid Galaxy in a Virtual Machine (VM)
 contributor: Prashant Andoriya
-date: 2024-06-13T14:54:54.424+00:00
+date: June 13, 2024
 ---
 
   

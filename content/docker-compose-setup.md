@@ -1,7 +1,7 @@
----
+﻿---
 title: Docker Compose Setup
 contributor: Rafel Salgueiro
-date: 2024-06-10T13:13:42.487+00:00
+date: June 10, 2024
 ---
 
 ## Introduction

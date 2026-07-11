@@ -1,7 +1,7 @@
----
+﻿---
 title: Stop the earth from spinning on startup
 contributor: Shahzeel Ansari
-date: 2024-06-13T14:30:58.639+00:00
+date: June 13, 2024
 ---
 ## Overview
 To Stop the earth from spinning on startup  

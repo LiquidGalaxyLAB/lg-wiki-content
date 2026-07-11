@@ -1,7 +1,7 @@
----
+﻿---
 title: Implementing Free Multi-Language Support in Liquid Galaxy Using Flutter
 contributor: Jaivardhan Shukla
-date: 2025-02-13T17:23:52.455+00:00
+date: February 13, 2025
 ---
 
 # Implementing Free Multi-Language Support in Liquid Galaxy Using Flutter

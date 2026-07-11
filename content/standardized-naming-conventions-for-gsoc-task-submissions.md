@@ -1,7 +1,7 @@
----
+﻿---
 title: Standardized Naming Conventions for GSoC Task Submissions
 contributor: Anirudh Pratap Singh Yadav
-date: 2026-03-25T14:34:32.217+00:00
+date: March 25, 2026
 ---
 
 _Contributor Onboarding & Submission Technique_

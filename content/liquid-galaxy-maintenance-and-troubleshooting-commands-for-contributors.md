@@ -1,7 +1,7 @@
----
+﻿---
 title: Liquid Galaxy Maintenance and Troubleshooting Commands for Contributors
 contributor: Vinayak Dhaka
-date: 2026-03-01T19:03:42.833+00:00
+date: March 1, 2026
 ---
 
 # Liquid Galaxy Maintenance and Troubleshooting Commands for Contributors

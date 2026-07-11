@@ -1,7 +1,7 @@
----
+﻿---
 title: Brief on KMLs With Liquid Galaxy
 contributor: Mahinour Alaa
-date: 2024-06-06T13:06:08.326+00:00
+date: June 6, 2024
 ---
 
 KML is a keyhole markup language used to display geographic data in an Earth browser such as Google Earth. KML uses a tag-based structure with nested elements and attributes and is based on the XML standard.  

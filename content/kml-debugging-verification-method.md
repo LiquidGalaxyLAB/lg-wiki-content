@@ -1,7 +1,7 @@
----
+﻿---
 title: KML Debugging & Verification Method
 contributor: Anirudh Pratap Singh Yadav
-date: 2026-03-25T14:40:50.372+00:00
+date: March 25, 2026
 ---
 
 The Problem

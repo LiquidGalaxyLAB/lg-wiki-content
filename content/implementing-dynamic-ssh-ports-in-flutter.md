@@ -1,7 +1,7 @@
----
+﻿---
 title: Implementing Dynamic SSH Ports in Flutter
 contributor: Kartik Sharma
-date: 2026-03-11T11:12:26.115+00:00
+date: March 11, 2026
 ---
 
 # Implementing Dynamic SSH Ports in Flutter

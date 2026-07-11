@@ -1,7 +1,7 @@
----
+﻿---
 title: Liquid Galaxy Virtual Setup Problems & solutions
 contributor: Mahinour
-date: 2024-03-18T17:11:10.609+00:00
+date: March 18, 2024
 ---
 ## Overview
 Problem-1

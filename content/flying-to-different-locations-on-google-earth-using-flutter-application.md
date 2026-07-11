@@ -1,7 +1,7 @@
----
+﻿---
 title: flying to different locations on Google Earth using Flutter application.
 contributor: Satwik Mohan
-date: 2024-06-07T13:37:06.665+00:00
+date: June 7, 2024
 ---
 ## Overview
 Make sure your application is Connected to your LG environment.  

@@ -1,7 +1,7 @@
----
+﻿---
 title: Linux Commands Introduction
 contributor: youssef khaled
-date: 2024-06-07T09:55:29.160+00:00
+date: June 7, 2024
 ---
 ## Overview
 In this section, we'll cover essential Linux commands that are crucial for efficient command-line 

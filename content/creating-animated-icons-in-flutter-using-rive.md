@@ -1,7 +1,7 @@
----
+﻿---
 title: Creating Animated Icons in Flutter using Rive
 contributor: Shuvam Swapnil Dash
-date: 2025-02-27T13:26:54.479+00:00
+date: February 27, 2025
 ---
 
 Animation is essential for creating a responsive and interactive UI in Flutter applications. Animated icons improve the user and overall experience while surfing the application. Rive is a powerful tool for adding vector animations in Flutter, enabling smooth, real-time animations controlled by user interactions or predefined logic.

@@ -1,7 +1,7 @@
----
+﻿---
 title: HOW TO STOP THE EARTH FROM SPINNING CONTINUOUSLY IN THE MASTER VM
 contributor: Baikuntha B Bihari
-date: 2024-06-11T13:34:56.668+00:00
+date: June 11, 2024
 ---
 ## Overview
 **After Launching the LG in the VMs, the earth spins continuously, and to stop that, we need to follow some simple steps, which are as follows:**  

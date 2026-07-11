@@ -1,7 +1,7 @@
----
+﻿---
 title: LG Screen Configuration and View Angle Calculation.
 contributor: Yashendra Awasthi
-date: 2026-02-24T17:15:39.767+00:00
+date: February 24, 2026
 ---
 
 **How all screens are aligned in the rig, it’s not about just duplicating master one but every slave has to be set at a particular angle.** 

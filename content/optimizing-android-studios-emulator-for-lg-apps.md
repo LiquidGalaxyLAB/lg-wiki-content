@@ -1,7 +1,7 @@
----
+﻿---
 title: Optimizing Android Studio's Emulator for LG Apps
 contributor: Rajat Kriplani
-date: 2025-02-04T13:40:48.406+00:00
+date: February 4, 2025
 ---
 
 Optimizing Android Studio's Emulator for LG Device Control

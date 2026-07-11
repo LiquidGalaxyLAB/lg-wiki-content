@@ -1,7 +1,7 @@
----
+﻿---
 title: Retrieve data asynchronously in the form of csv  in smart city dashboard app and visualise the data.
 contributor: Om Jadhav
-date: 2024-06-12T13:57:23.221+00:00
+date: June 12, 2024
 ---
 ## Overview
 ![visualise the data](https://lh7-us.googleusercontent.com/docsz/AD_4nXf4DGBy6d5AJIhnghvDKYIRZjTzWsfM8O51RRapibjtrQR6krDTEDeYROMvfC3x-F7bX9tIyZ_GsDkA2ZfsLz7fPVijrBCNbCwabBt5xD4meMKoIteuT8bWJ_2eQJLj0uRkIgOxloNyXvQJWRBwXDBze5Q?key=hjiv4J65wMQPabv6eqBdWA "visualise the data")  

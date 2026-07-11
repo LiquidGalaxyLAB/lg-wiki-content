@@ -1,7 +1,7 @@
----
+﻿---
 title: Speech To Text in Flutter
 contributor: Vivek Maurya
-date: 2024-06-11T15:01:50.856+00:00
+date: June 11, 2024
 ---
 ## Overview
 Speech-to-text functionality in Flutter can be implemented using various plugins that leverage the underlying native capabilities of the device.\

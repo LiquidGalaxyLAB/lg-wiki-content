@@ -1,7 +1,7 @@
----
+﻿---
 title: Creating Basic Presentations with Liquid Galaxy
 contributor: Pablo Asenjo Gonsa XD
-date: 2024-06-13T08:21:24.432+00:00
+date: June 13, 2024
 ---
 
   

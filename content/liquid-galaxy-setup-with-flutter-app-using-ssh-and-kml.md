@@ -1,7 +1,7 @@
----
+﻿---
 title: Liquid Galaxy Setup with Flutter App using SSH and KML
 contributor: Prashant Andoriya
-date: 2024-06-13T15:00:09.975+00:00
+date: June 13, 2024
 ---
 
   

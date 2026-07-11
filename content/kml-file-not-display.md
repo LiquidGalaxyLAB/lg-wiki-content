@@ -1,7 +1,7 @@
----
+﻿---
 title: Kml file not display
 contributor: Dev T Gadani
-date: 2024-06-10T08:24:06.504+00:00
+date: June 10, 2024
 ---
 ## Overview
 Hello , I was having a problem in that the kml file was not displaying after the code was correctly formatted in the file on my machine. So , I have try to debugging on master machine that if the file is been upload or not . The error that i was having was :  

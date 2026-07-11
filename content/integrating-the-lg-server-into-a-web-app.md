@@ -1,7 +1,7 @@
----
+﻿---
 title: Integrating the LG Server into a Web App
 contributor: Karan Kumar Das
-date: 2025-04-11T18:36:09.060+00:00
+date: April 11, 2025
 ---
 
 # Integrating the LG Server into a Web App

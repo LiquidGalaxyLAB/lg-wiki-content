@@ -1,7 +1,7 @@
----
+﻿---
 title: How to Add Voice Commands in LG Web App Voice Page
 contributor: Vedang Lokhande
-date: 2025-03-04T05:09:05.741+00:00
+date: March 4, 2025
 ---
 
 # How to Add Voice Commands in LG Web App Voice Page

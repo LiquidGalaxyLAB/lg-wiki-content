@@ -1,7 +1,7 @@
----
+﻿---
 title: How to change celestial bodies (Earth, Moon, Mars) in LG rig via app, which command is to be sent for this?
 contributor: Aryan Sharma
-date: 2026-02-13T12:36:33.073+00:00
+date: February 13, 2026
 ---
 
 **When we have to change the celestial bodies (Earth, Moon, Mars) in LG rig, for this, we have to just send a simple command mentioning the celestial body which you want to switch from current.**

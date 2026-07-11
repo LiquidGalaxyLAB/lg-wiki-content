@@ -1,7 +1,7 @@
----
+﻿---
 title: "Using GetX for state management in Flutter\:"
 contributor: Aritra Biswas
-date: 2024-06-05T13:06:54.417+00:00
+date: June 5, 2024
 ---
 
 GetX is an extremely popular framework combining features like simple state-management, route management, dependency injection, and other simple changes into one package. Now, you might ask, what is state management? Why should we do it? 

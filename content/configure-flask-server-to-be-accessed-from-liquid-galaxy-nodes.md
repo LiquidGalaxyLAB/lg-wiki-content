@@ -1,7 +1,7 @@
----
+﻿---
 title: Configure Flask Server to Be Accessed from Liquid Galaxy Nodes
 contributor: Taha Sadikot
-date: 2025-01-15T21:40:08.469+00:00
+date: January 15, 2025
 ---
 
 ---

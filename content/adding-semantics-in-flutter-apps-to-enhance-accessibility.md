@@ -1,7 +1,7 @@
----
+﻿---
 title: Adding Semantics in Flutter Apps to enhance Accessibility
 contributor: Aayush Kumar
-date: 2025-03-17T20:00:34.466+00:00
+date: March 17, 2025
 ---
 
 # Adding Semantics in Flutter Apps

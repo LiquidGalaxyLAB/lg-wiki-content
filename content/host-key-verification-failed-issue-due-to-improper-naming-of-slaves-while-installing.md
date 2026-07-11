@@ -1,7 +1,7 @@
----
+﻿---
 title: Host Key Verification Failed Issue due to improper naming of Slaves while installing.
 contributor: Saumya Bhattacharya
-date: 2024-06-07T07:43:56.579+00:00
+date: June 7, 2024
 ---
 ## Overview
 The "Host key verification failed" error typically occurs when there is a mismatch between the host key stored on the client machine and the host key presented by the server.  

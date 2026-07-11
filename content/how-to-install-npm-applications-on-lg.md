@@ -1,7 +1,7 @@
----
+﻿---
 title: How to install npm applications on LG
 contributor: Mattia Baggini
-date: 2024-06-06T07:41:06.095+00:00
+date: June 6, 2024
 ---
 
 ## **About** 

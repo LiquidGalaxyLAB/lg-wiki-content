@@ -1,7 +1,7 @@
----
+﻿---
 title: Rendering Issue of a Pyramid (KML) Across Master and Slave Screens in Liquid Galaxy
 contributor: Raksha AK
-date: 2026-02-25T17:10:36.712+00:00
+date: February 25, 2026
 ---
 ## Overview
 Rendering Issue of a Pyramid (KML) Across Master and Slave Screens in Liquid Galaxy

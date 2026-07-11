@@ -1,7 +1,7 @@
----
+﻿---
 title: How to create your own Dockerfile
 contributor: Tathagat Kumar
-date: 2025-03-01T19:17:12.662+00:00
+date: March 1, 2025
 ---
 ## Overview
 How to create your own Dockerfile

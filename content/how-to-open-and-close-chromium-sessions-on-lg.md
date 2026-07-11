@@ -1,7 +1,7 @@
----
+﻿---
 title: How to open and close Chromium sessions on LG
 contributor: Mattia Baggini
-date: 2024-06-05T16:06:57.484+00:00
+date: June 5, 2024
 ---
 
 ## **About**

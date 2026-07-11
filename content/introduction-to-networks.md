@@ -1,7 +1,7 @@
----
+﻿---
 title: "Introduction To Networks\:"
 contributor: youssef khaled
-date: 2024-06-07T08:55:42.288+00:00
+date: June 7, 2024
 ---
 ## Overview
 \

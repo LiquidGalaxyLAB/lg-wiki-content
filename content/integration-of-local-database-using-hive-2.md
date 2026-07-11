@@ -1,7 +1,7 @@
----
+﻿---
 title: Integration of Local Database ( Using Hive )
 contributor: Vivek Maurya
-date: 2024-06-11T15:05:39.196+00:00
+date: June 11, 2024
 ---
 
   

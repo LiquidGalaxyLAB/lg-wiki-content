@@ -1,7 +1,7 @@
----
+﻿---
 title: How Do Liquid Galaxy Screens Talk To Each Other?
 contributor: Shaunak Nagrecha
-date: 2024-06-07T15:20:06.131+00:00
+date: June 7, 2024
 ---
 ## Overview
 ![Screenshot 2024-02-06 145041](https://lh7-us.googleusercontent.com/docsz/AD_4nXdx46o1MAw1RHQhuH-41Wkb45dIU0XGxNhluIxl56joHzvl4OsMPASe5CuH_-5RflkDP00X2XWQKZiLj2FZY6_lVxvC2WvjqDWtRGtmg9qqo4CUSVHpDpttLbbGhoWWF1h1FkAkCiIjYH_YCtUd28KAlzmv?key=O65rb5sVvfS3xfhPyj0BQg "Screenshot 2024-02-06 145041")  

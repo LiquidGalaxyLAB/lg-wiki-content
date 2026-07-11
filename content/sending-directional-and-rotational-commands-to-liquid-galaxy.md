@@ -1,7 +1,7 @@
----
+﻿---
 title: Sending Directional and Rotational Commands to Liquid Galaxy.
 contributor: Sidharth Mudgil
-date: 2024-06-05T10:12:20.935+00:00
+date: June 5, 2024
 ---
 ## Overview
 **Using xdotool for Commands**\

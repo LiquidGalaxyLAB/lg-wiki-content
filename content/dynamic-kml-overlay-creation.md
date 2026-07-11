@@ -1,7 +1,7 @@
----
+﻿---
 title: Dynamic KML Overlay Creation
 contributor: Vishal Maurya
-date: 2025-02-27T19:42:55.834+00:00
+date: February 27, 2025
 ---
 
 This guide demonstrates how to programmatically generate a dynamic KML file that updates geospatial overlays in real time and how to integrate it into a geospatial viewer (e.g., Google Earth).

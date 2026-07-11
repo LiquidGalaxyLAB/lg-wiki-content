@@ -1,7 +1,7 @@
----
+﻿---
 title: Resolving SFTP 'Permission Denied' Errors for Asset Hosting
 contributor: Kartik Sharma
-date: 2026-03-09T20:53:00.737+00:00
+date: March 9, 2026
 ---
 
 # Resolving SFTP 'Permission Denied' Errors for Asset Hosting

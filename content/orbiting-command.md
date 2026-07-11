@@ -1,7 +1,7 @@
----
+﻿---
 title: Orbiting command
 contributor: Prithvi Dutta
-date: 2024-06-05T15:05:43.306+00:00
+date: June 5, 2024
 ---
 ## Overview
 Have you wondered how the lg rig starts orbiting about a given location? Well, lets get into it step by step.  

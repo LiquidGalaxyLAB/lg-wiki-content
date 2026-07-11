@@ -1,7 +1,7 @@
----
+﻿---
 title: "Topic 2\: Sending and displaying logos or legends on the leftmost slave"
 contributor: Manas Dalvi
-date: 2024-06-11T16:09:19.918+00:00
+date: June 11, 2024
 ---
 
 \

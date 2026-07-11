@@ -1,7 +1,7 @@
----
+﻿---
 title: Migration from pub.dev ssh to dartssh2 with version 3.x of flutter
 contributor: Gerard Monsó
-date: 2024-06-10T14:23:03.997+00:00
+date: June 10, 2024
 ---
 
   

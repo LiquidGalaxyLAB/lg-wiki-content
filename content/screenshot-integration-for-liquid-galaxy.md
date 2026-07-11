@@ -1,7 +1,7 @@
----
+﻿---
 title: Screenshot Integration for Liquid Galaxy
 contributor: Om Sharma
-date: 2025-03-21T18:29:14.438+00:00
+date: March 21, 2025
 ---
 
 # Screenshot Integration for Liquid Galaxy

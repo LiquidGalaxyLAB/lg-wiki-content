@@ -1,7 +1,7 @@
----
+﻿---
 title: Integrating Text-to-Speech (TTS) in Flutter Applications
 contributor: Arindam Bera
-date: 2025-03-20T22:29:09.944+00:00
+date: March 20, 2025
 ---
 
 Text-to-Speech (TTS) is a powerful technology that converts text into natural-sounding speech.

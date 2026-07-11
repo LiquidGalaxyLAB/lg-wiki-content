@@ -1,7 +1,7 @@
----
+﻿---
 title: Robotic Arm Gesture Control for Liquid Galaxy
 contributor: Om Sharma
-date: 2025-03-21T18:33:40.797+00:00
+date: March 21, 2025
 ---
 
 

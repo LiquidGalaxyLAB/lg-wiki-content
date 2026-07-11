@@ -1,7 +1,7 @@
----
+﻿---
 title: Creating a KML Tour Visualization Screen in Flutter
 contributor: Arindam Bera
-date: 2025-03-20T22:12:21.084+00:00
+date: March 20, 2025
 ---
 
 Implementation of a KML tour visualization screen in Flutter, integrating a timeline feature to display tour progress.

@@ -1,7 +1,7 @@
----
+﻿---
 title: TFlite for AI model integration
 contributor: Shiven Upadhyay
-date: 2024-06-13T13:43:40.541+00:00
+date: June 13, 2024
 ---
 
   

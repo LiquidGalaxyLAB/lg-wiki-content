@@ -1,7 +1,7 @@
----
+﻿---
 title: Understanding the Liquid Galaxy Boot Process
 contributor: Sahana K B
-date: 2026-03-01T19:45:01.302+00:00
+date: March 1, 2026
 ---
 
 Understanding the Liquid Galaxy Boot Process

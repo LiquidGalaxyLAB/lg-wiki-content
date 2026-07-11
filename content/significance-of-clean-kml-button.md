@@ -1,7 +1,7 @@
----
+﻿---
 title: Significance of ‘Clean KML’ Button
 contributor: Saumya Bhattacharya
-date: 2026-02-12T12:05:23.050+00:00
+date: February 12, 2026
 ---
 
 ## Significance of ‘Clean KML’ Button

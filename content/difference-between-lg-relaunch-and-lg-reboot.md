@@ -1,7 +1,7 @@
----
+﻿---
 title: Difference between lg-relaunch and lg-reboot?
 contributor: Saumya Bhattacharya
-date: 2024-06-07T08:04:34.403+00:00
+date: June 7, 2024
 ---
 ## Overview
 To answer this question, let's start from the basics, lg-relaunch and lg-reboot are both commands used in the Liquid Galaxy system, but they serve different purposes:  

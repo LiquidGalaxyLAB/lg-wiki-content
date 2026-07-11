@@ -1,7 +1,7 @@
----
-title: "Control Commands"
-contributor: "Sidharth Mudgil"
-date: 2026-07-10T23:50:00.000+00:00
+﻿---
+title: Control Commands
+contributor: Sidharth Mudgil
+date: July 10, 2026
 ---
 
 ## Overview

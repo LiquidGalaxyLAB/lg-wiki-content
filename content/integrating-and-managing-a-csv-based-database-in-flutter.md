@@ -1,7 +1,7 @@
----
+﻿---
 title: Integrating and Managing a CSV-Based Database in Flutter
 contributor: Ashutosh Srivastava
-date: 2024-06-13T10:31:12.605+00:00
+date: June 13, 2024
 ---
 
   

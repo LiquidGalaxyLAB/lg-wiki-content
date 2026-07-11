@@ -1,7 +1,7 @@
----
+﻿---
 title: "Bloc vs. GetX\: Flutter State Management"
 contributor: Shiven Upadhyay
-date: 2024-06-13T13:24:40.882+00:00
+date: June 13, 2024
 ---
 
   

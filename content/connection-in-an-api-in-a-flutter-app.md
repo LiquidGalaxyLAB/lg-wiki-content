@@ -1,7 +1,7 @@
----
+﻿---
 title: Connection in an API in a Flutter App
 contributor: Davit Mas
-date: 2024-06-14T07:08:52.960+00:00
+date: June 14, 2024
 ---
 ## Overview
 \

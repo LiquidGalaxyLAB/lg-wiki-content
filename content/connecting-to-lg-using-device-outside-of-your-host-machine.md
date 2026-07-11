@@ -1,7 +1,7 @@
----
+﻿---
 title: connecting to LG using device outside of your host machine
 contributor: Shahzeel Ansari
-date: 2024-06-13T14:05:02.985+00:00
+date: June 13, 2024
 ---
 
   

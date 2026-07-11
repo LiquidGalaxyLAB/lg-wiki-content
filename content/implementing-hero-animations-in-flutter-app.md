@@ -1,7 +1,7 @@
----
+﻿---
 title: Implementing Hero Animations in Flutter App
 contributor: Aayush Kumar
-date: 2025-03-17T19:17:28.953+00:00
+date: March 17, 2025
 ---
 
 # Implementing Hero Animations in Flutter Apps

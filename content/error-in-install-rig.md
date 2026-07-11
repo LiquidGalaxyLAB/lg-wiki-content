@@ -1,7 +1,7 @@
----
+﻿---
 title: Error in install rig
 contributor: Dev T Gadani
-date: 2024-06-10T08:40:29.520+00:00
+date: June 10, 2024
 ---
 
 Hey , I was in trouble that my rig was not been installing . The view was that the bash command was not working on vm  

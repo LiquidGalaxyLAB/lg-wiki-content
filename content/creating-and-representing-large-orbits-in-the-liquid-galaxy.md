@@ -1,7 +1,7 @@
----
+﻿---
 title: Creating and representing large orbits in the Liquid Galaxy
 contributor: Mattia Baggini
-date: 2024-06-06T08:24:31.671+00:00
+date: June 6, 2024
 ---
 ## Overview
 _**About**_

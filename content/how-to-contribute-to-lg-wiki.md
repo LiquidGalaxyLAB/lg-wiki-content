@@ -1,7 +1,7 @@
----
-title: "How to Contribute to LG Wiki"
-contributor: "Dev T Gadani"
-date: 2026-07-10T23:30:00.000+00:00
+﻿---
+title: How to Contribute to LG Wiki
+contributor: Dev T Gadani
+date: July 10, 2026
 ---
 
 ## Overview
@@ -59,7 +59,7 @@ Every article must start with a YAML frontmatter block. Fill out this template:
 ---
 title: "Your Article Title"
 contributor: "Your Full Name"
-date: 2026-07-10T00:00:00.000+00:00
+date: July 10, 2026
 ---
 ```
 > [!WARNING]

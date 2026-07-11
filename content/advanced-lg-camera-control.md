@@ -1,7 +1,7 @@
----
+﻿---
 title: Advanced LG Camera Control
 contributor: Darpan Baviskar
-date: 2026-02-16T13:34:28.176+00:00
+date: February 16, 2026
 ---
 
 # Advanced LG Camera Control

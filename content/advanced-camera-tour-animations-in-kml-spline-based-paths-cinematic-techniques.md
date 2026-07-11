@@ -1,7 +1,7 @@
----
+﻿---
 title: "Advanced Camera Tour Animations in KML\: Spline-Based Paths & Cinematic Techniques"
 contributor: Mohammed Salem
-date: 2025-04-20T16:14:44.240+00:00
+date: April 20, 2025
 ---
 
 ## Advanced Camera Tour Animations in KML: Spline-Based Paths & Cinematic Techniques

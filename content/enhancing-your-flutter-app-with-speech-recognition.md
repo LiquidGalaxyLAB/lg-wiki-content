@@ -1,7 +1,7 @@
----
+﻿---
 title: Enhancing Your Flutter App with Speech Recognition
 contributor: Ashutosh Srivastava
-date: 2024-06-13T10:36:57.969+00:00
+date: June 13, 2024
 ---
 
   

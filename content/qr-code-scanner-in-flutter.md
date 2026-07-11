@@ -1,7 +1,7 @@
----
+﻿---
 title: QR Code Scanner in Flutter
 contributor: Shuvam Swapnil Dash
-date: 2025-02-27T08:45:37.051+00:00
+date: February 27, 2025
 ---
 
 Quick-response (QR) code scanning has become an essential feature in modern-era mobile application development. Its use case extends from copying simple URLs into the clipboard to ticket verifications and initiating payments. Its simple yet important characteristic of scanning strings from the barcode can be exploited to read JSON objects and fill in text fields.

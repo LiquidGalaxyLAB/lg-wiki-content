@@ -1,7 +1,7 @@
----
+﻿---
 title: Generating KML Elements Using Python Scripts for Liquid Galaxy
 contributor: Jaivardhan Shukla
-date: 2025-02-13T17:27:18.719+00:00
+date: February 13, 2025
 ---
 
 # Generating KML Elements Using Python Scripts for Liquid Galaxy

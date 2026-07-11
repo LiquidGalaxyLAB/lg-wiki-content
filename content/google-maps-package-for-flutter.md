@@ -1,7 +1,7 @@
----
+﻿---
 title: Google Maps package for flutter
 contributor: Om Jadhav
-date: 2024-06-12T13:51:09.689+00:00
+date: June 12, 2024
 ---
 
 \

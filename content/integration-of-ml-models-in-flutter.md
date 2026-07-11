@@ -1,7 +1,7 @@
----
+﻿---
 title: Integration of ML models in Flutter
 contributor: Aritra Biswas
-date: 2024-06-05T14:21:42.332+00:00
+date: June 5, 2024
 ---
 
 Machine Learning and Artificial Intelligence has taken the world by storm. It has affected every sector, and of course, App Development is no exception. AI/ML brings with it the potential to revolutionize the way our apps work. So, ML model integration has become a critical part of app development.  

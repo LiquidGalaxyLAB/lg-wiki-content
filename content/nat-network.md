@@ -1,7 +1,7 @@
----
+﻿---
 title: "NAT Network\:"
 contributor: Prithvi Dutta
-date: 2024-06-05T15:21:16.101+00:00
+date: June 5, 2024
 ---
 ## Overview
 When we contributors are to use the LG rig, we most probably are using virtualisation. The master connects to the slaves using the nat network.  

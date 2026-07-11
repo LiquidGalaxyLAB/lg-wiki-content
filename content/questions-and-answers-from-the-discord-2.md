@@ -1,7 +1,7 @@
----
+﻿---
 title: "Questions and Answers from the discord\:"
 contributor: youssef khaled
-date: 2024-06-07T12:58:40.179+00:00
+date: June 7, 2024
 ---
 ## Overview
 _**Q1- I can't find liquid Galaxy controller app on play store ?**_  

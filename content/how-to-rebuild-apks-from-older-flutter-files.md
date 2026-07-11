@@ -1,7 +1,7 @@
----
+﻿---
 title: How to rebuild apks from older flutter files
 contributor: Tathagat Kumar
-date: 2025-03-01T19:31:41.420+00:00
+date: March 1, 2025
 ---
 ## Overview
 # How to rebuild apks from older flutter files #
