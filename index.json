@@ -894,6 +894,11 @@
       "id": "troubleshooting-the-red-x-missing-asset-error-in-kmls",
       "title": "Troubleshooting the \"Red X\" Missing Asset Error in KMLs",
       "file": "troubleshooting-the-red-x-missing-asset-error-in-kmls.md"
+    },
+    {
+      "id": "compress-apks",
+      "title": "How to Compress and Optimize Android APK Size",
+      "file": "compress-apks.md"
     }
   ]
 }
