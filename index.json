@@ -899,6 +899,11 @@
       "id": "compress-apks",
       "title": "How to Compress and Optimize Android APK Size",
       "file": "compress-apks.md"
+    },
+    {
+      "id": "uploading-troubleshooting-kml-physical-rig",
+      "title": "Uploading and Troubleshooting KML Files on a Physical Liquid Galaxy Rig",
+      "file": "kml-upload-and-common-pitfalls.md"
     }
   ]
 }
