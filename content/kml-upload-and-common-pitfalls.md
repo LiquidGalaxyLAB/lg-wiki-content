@@ -17,12 +17,7 @@ The flowchart shows the sequence for publishing KML content to a physical Liquid
 3. **Trigger the rig's KML refresh** through the target rig's documented mechanism. The trigger value and command can vary by installation.
 4. **Google Earth (GE) fetches and reads the network link from `myplaces.kml`**, then retrieves the referenced KML content over the rig network.
 
-```mermaid
-flowchart TD
-    A["SFTP upload KML(s)<br/>/var/www/html/kml/master.kml<br/>/var/www/html/kml/tour.kml"] --> B["Write master network link to myplaces.kml<br/>Google Earth fetches and reads it from there<br/>with persistent refresh behavior"]
-    B --> C["Trigger the rig's documented KML refresh mechanism"]
-    C --> D["Google Earth reads the network link in myplaces.kml<br/>and fetches the referenced KML from the master"]
-```
+![KML Upload and Common Pitfalls](https://raw.githubusercontent.com/SamatmaAB/lg-wiki-content/SamatmaAB-Wiki-Entries/content/images/kml-upload-and-common-pitfalls.png)
 
 ## Pitfalls
 
